@@ -2,5 +2,6 @@
      { "nome": "2A", "categoria": "CANCELLATION", "arquivo": "2A.pdf" }, 
      { "nome": "RTA", "categoria": "RMV", "arquivo": "RTA.pdf" },
      { "nome": "ACORD 35 - Policy Release", "categoria": "ACORD", "arquivo": "ACORD 35 - Policy Release.pdf" },
-     { "nome": "ACORD 36 - Broker Of Record Change", "categoria": "ACORD", "arquivo": "ACORD 36 - Broker Of Record Change.pdf" }
+     { "nome": "ACORD 36 - Broker Of Record Change", "categoria": "ACORD", "arquivo": "ACORD 36 - Broker Of Record Change.pdf" },
+     { "nome": "ACORD 75 - Insurance Binder", "categoria": "ACORD", "arquivo": "ACORD 75 - Insurance Binder.pdf" }
    ]
