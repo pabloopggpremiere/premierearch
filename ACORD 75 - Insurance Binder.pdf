@@ -1,0 +1,3441 @@
+%PDF-1.4
+%¡³Å×
+1 0 obj
+<</AcroForm<</DR<</Font<</F2 2 0 R >>>>/Fields[ 3 0 R  4 0 R  5 0 R  6 0 R  7 0 R  8 0 R  9 0 R  10 0 R  11 0 R  12 0 R  13 0 R  14 0 R  15 0 R  16 0 R  17 0 R  18 0 R  19 0 R  20 0 R  21 0 R  22 0 R  23 0 R  24 0 R  25 0 R  26 0 R  27 0 R  28 0 R  29 0 R  30 0 R  31 0 R  32 0 R  33 0 R  34 0 R  35 0 R  36 0 R  37 0 R  38 0 R  39 0 R  40 0 R  41 0 R  42 0 R  43 0 R  44 0 R  45 0 R  46 0 R  47 0 R  48 0 R  49 0 R  50 0 R  51 0 R  52 0 R  53 0 R  54 0 R  55 0 R  56 0 R  57 0 R  58 0 R  59 0 R  60 0 R  61 0 R  62 0 R  63 0 R  64 0 R  65 0 R  66 0 R  67 0 R  68 0 R  69 0 R  70 0 R  71 0 R  72 0 R  73 0 R  74 0 R  75 0 R  76 0 R  77 0 R  78 0 R  79 0 R  80 0 R  81 0 R  82 0 R  83 0 R  84 0 R  85 0 R  86 0 R  87 0 R  88 0 R  89 0 R  90 0 R  91 0 R  92 0 R  93 0 R  94 0 R  95 0 R  96 0 R  97 0 R  98 0 R  99 0 R  100 0 R  101 0 R  102 0 R  103 0 R  104 0 R  105 0 R  106 0 R  107 0 R  108 0 R  109 0 R  110 0 R  111 0 R  112 0 R  113 0 R  114 0 R  115 0 R  116 0 R  117 0 R  118 0 R  119 0 R  120 0 R  121 0 R  122 0 R  123 0 R  124 0 R  125 0 R  126 0 R  127 0 R  128 0 R  129 0 R  130 0 R  131 0 R  132 0 R  133 0 R  134 0 R  135 0 R  136 0 R  137 0 R  138 0 R  139 0 R  140 0 R  141 0 R  142 0 R  143 0 R  144 0 R  145 0 R  146 0 R  147 0 R  148 0 R  149 0 R ]>>/OpenAction<</JS(function DateV\(event\) {  var regEx = /^\\d{1,2}\\/\\d{1,2}\\/\\d{4}$/; if \(!regEx.test\(event.value\)\) { event.rc = false; app.alert\("The date must be of the format MM/DD/YYYY."\); } };)/S/JavaScript/Type/Action>>/Pages 150 0 R /Type/Catalog>>
+endobj
+2 0 obj
+<</BaseFont/Arial/Encoding/WinAnsiEncoding/FirstChar 0/FontDescriptor<</Ascent 905.27/CapHeight 716.31/Descent -211.91/Flags 32/FontBBox[ -45.9 -168.46 1000 938.48]/FontName/Arial/ItalicAngle 0/StemV 0/Type/FontDescriptor>>/LastChar 255/Subtype/Type1/Type/Font/Widths[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 277.83 277.83 354.98 556.15 556.15 889.16 666.99 190.92 333.01 333.01 389.16 583.98 277.83 333.01 277.83 277.83 556.15 556.15 556.15 556.15 556.15 556.15 556.15 556.15 556.15 556.15 277.83 277.83 583.98 583.98 583.98 556.15 1015.14 666.99 666.99 722.17 722.17 666.99 610.84 777.83 722.17 277.83 500 666.99 556.15 833.01 722.17 777.83 666.99 777.83 722.17 666.99 610.84 722.17 666.99 943.85 666.99 666.99 610.84 277.83 277.83 277.83 469.24 556.15 333.01 556.15 556.15 500 556.15 556.15 277.83 556.15 556.15 222.17 222.17 500 222.17 833.01 556.15 556.15 556.15 556.15 333.01 500 277.83 556.15 500 722.17 500 500 500 333.98 259.77 333.98 583.98 0 556.15 0 222.17 556.15 333.01 1000 556.15 556.15 333.01 1000 666.99 333.01 1000 0 610.84 0 0 222.17 222.17 333.01 333.01 350.1 556.15 1000 333.01 1000 500 333.01 943.85 0 500 666.99 277.83 333.01 556.15 556.15 556.15 556.15 259.77 556.15 333.01 736.82 370.12 556.15 583.98 333.01 736.82 552.25 399.9 548.83 333.01 333.01 333.01 576.17 537.11 333.01 333.01 333.01 365.23 556.15 833.98 833.98 833.98 610.84 666.99 666.99 666.99 666.99 666.99 666.99 1000 722.17 666.99 666.99 666.99 666.99 277.83 277.83 277.83 277.83 722.17 722.17 777.83 777.83 777.83 777.83 777.83 583.98 777.83 722.17 722.17 722.17 722.17 666.99 666.99 610.84 556.15 556.15 556.15 556.15 556.15 556.15 889.16 500 556.15 556.15 556.15 556.15 277.83 277.83 277.83 277.83 556.15 556.15 556.15 556.15 556.15 556.15 556.15 548.83 610.84 556.15 556.15 556.15 556.15 500 556.15 500]>>
+endobj
+3 0 obj
+<</AP<</N 288 0 R >>/DV(ACORD 0075 2016-03 Acroform)/F 2/FT/Tx/Ff 1/P 152 0 R /Rect[ 0 1 0 1]/Subtype/Widget/T(Form_EditionIdentifier_A)/TU(The edition identifier of the form including the form number and edition \(the date is typically formatted YYYY/MM\).)/Type/Annot/V(ACORD 0075 2016-03 Acroform)>>
+endobj
+4 0 obj
+<</AA<</V<</JS(DateV\(event\);)/S/JavaScript/Type/Action>>>>/AP<</N 291 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/MaxLen 10/P 152 0 R /Q 1/Rect[ 511 744 590 756]/Subtype/Widget/T(Form_CompletionDate_A)/TU(Enter date: The date on which the form is completed.  \(MM/DD/YYYY\) )/Type/Annot>>
+endobj
+5 0 obj
+<</AP<</N 294 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 22 708 302 720]/Subtype/Widget/T(Producer_FullName_A)/TU(Enter text: The full name of the producer / agency. )/Type/Annot/V(PREMIERE ADVISORS INC)>>
+endobj
+6 0 obj
+<</AP<</N 297 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 22 696 302 708]/Subtype/Widget/T(Producer_MailingAddress_LineOne_A)/TU(Enter text: The mailing address line one of the producer / agency. )/Type/Annot/V(7 SUMMER ST)>>
+endobj
+7 0 obj
+<</AP<</N 300 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 22 684 302 696]/Subtype/Widget/T(Producer_MailingAddress_LineTwo_A)/TU(Enter text: The mailing address line two of the producer / agency. )/Type/Annot/V(UNIT 19)>>
+endobj
+8 0 obj
+<</AP<</N 303 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 22 672 238 684]/Subtype/Widget/T(Producer_MailingAddress_CityName_A)/TU(Enter text: The mailing address city name of the producer / agency. )/Type/Annot/V(CHELMSFORD)>>
+endobj
+9 0 obj
+<</AP<</N 306 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 238 672 256 684]/Subtype/Widget/T(Producer_MailingAddress_StateOrProvinceCode_A)/TU(Enter code: The mailing address state or province code of the producer / agency. )/Type/Annot/V(MA)>>
+endobj
+10 0 obj
+<</AP<</N 309 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 256 672 302 684]/Subtype/Widget/T(Producer_MailingAddress_PostalCode_A)/TU(Enter code: The mailing address postal code of the producer / agency. )/Type/Annot/V(01824)>>
+endobj
+11 0 obj
+<</AP<</N 312 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 65 660 176 672]/Subtype/Widget/T(Producer_ContactPerson_PhoneNumber_A)/TU(Enter number: The producer's contact person's phone number.  If applicable, include the area code and extension. )/Type/Annot/V(978 221 0139)>>
+endobj
+12 0 obj
+<</AP<</N 315 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 212 660 302 672]/Subtype/Widget/T(Producer_FaxNumber_A)/TU(Enter number: The fax number of the producer / agency. )/Type/Annot/V(978 733 1956)>>
+endobj
+13 0 obj
+<</AP<</N 318 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 43 648 158 660]/Subtype/Widget/T(Insurer_ProducerIdentifier_A)/TU(Enter code: The identification code assigned to the producer \(e.g., agency or brokerage firm\) by the insurer. )/Type/Annot>>
+endobj
+14 0 obj
+<</AP<</N 321 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 202 648 302 660]/Subtype/Widget/T(Insurer_SubProducerIdentifier_A)/TU(Enter code: The identification code assigned by the insurer to the sub-producer \(e.g., individual\) within a producer's office \(e.g., agency or brokerage\). )/Type/Annot>>
+endobj
+15 0 obj
+<</DA(/F2 8 Tf 0 g)/FT/Tx/Ff 8388608/Kids[ 153 0 R  154 0 R ]/T(Producer_CustomerIdentifier_A)/TU(Enter identifier: The customer's identification number assigned by the producer \(e.g., agency or brokerage\). )>>
+endobj
+16 0 obj
+<</AP<</N 327 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 79 612 302 624]/Subtype/Widget/T(NamedInsured_FullName_A)/TU(Enter text: The named insured\(s\) as it / they will appear on the policy declarations page. )/Type/Annot>>
+endobj
+17 0 obj
+<</AP<</N 330 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 79 600 302 612]/Subtype/Widget/T(NamedInsured_MailingAddress_LineOne_A)/TU(Enter text: The named insured's mailing address line one. )/Type/Annot>>
+endobj
+18 0 obj
+<</AP<</N 333 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 79 588 302 600]/Subtype/Widget/T(NamedInsured_MailingAddress_LineTwo_A)/TU(Enter text: The named insured's mailing address line two. )/Type/Annot>>
+endobj
+19 0 obj
+<</AP<</N 336 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 79 576 238 588]/Subtype/Widget/T(NamedInsured_MailingAddress_CityName_A)/TU(Enter text: The named insured's mailing address city name. )/Type/Annot>>
+endobj
+20 0 obj
+<</AP<</N 339 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 238 576 256 588]/Subtype/Widget/T(NamedInsured_MailingAddress_StateOrProvinceCode_A)/TU(Enter code: The named insured's mailing address state or province code. )/Type/Annot>>
+endobj
+21 0 obj
+<</AP<</N 342 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 256 576 302 588]/Subtype/Widget/T(NamedInsured_MailingAddress_PostalCode_A)/TU(Enter code: The named insured's mailing address postal code. )/Type/Annot>>
+endobj
+22 0 obj
+<</AP<</N 345 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 310 708 482 720]/Subtype/Widget/T(Insurer_FullName_A)/TU(Enter text: The insurer's full legal company name\(s\) as found in the file copy of the policy.  Use the actual name of the company within the group to which the policy has been issued.  This is not the insurer's group name or trade name. )/Type/Annot>>
+endobj
+23 0 obj
+<</AP<</N 348 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 490 708 590 720]/Subtype/Widget/T(Binder_BinderIdentifier_A)/TU(Enter identifier: The number assigned to uniquely identify the binder. )/Type/Annot>>
+endobj
+24 0 obj
+<</AA<</V<</JS(DateV\(event\);)/S/JavaScript/Type/Action>>>>/AP<</N 351 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/MaxLen 10/P 152 0 R /Q 1/Rect[ 310 672 374 684]/Subtype/Widget/T(Binder_EffectiveDate_A)/TU(Enter date: The date on which the terms and conditions of the binder commenced. This date normally coincides with the effective date of the policy or of an endorsement to the policy. )/Type/Annot>>
+endobj
+25 0 obj
+<</AP<</N 354 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Q 1/Rect[ 382 672 428 684]/Subtype/Widget/T(Binder_EffectiveTime_A)/TU(Enter time: The time of day on the effective date in which the terms and conditions of the binder will commence. )/Type/Annot>>
+endobj
+26 0 obj
+<</AP<</D<</1 617 0 R /Off 618 0 R >>/N<</1 615 0 R /Off 616 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 432 684 446 696]/Subtype/Widget/T(Binder_MorningEffectiveTimeIndicator_A)/TU(Check the box \(if applicable\): Indicates the binder effective time is in the morning \(AM\). )/Type/Annot/V/Off>>
+endobj
+27 0 obj
+<</AP<</D<</1 158 0 R /Off 159 0 R >>/N<</1 160 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 432 672 446 684]/Subtype/Widget/T(Binder_AfternoonEffectiveTimeIndicator_A)/TU(Check the box \(if applicable\): Indicates the binder effective time is in the afternoon or evening \(PM\). )/Type/Annot>>
+endobj
+28 0 obj
+<</AA<</V<</JS(DateV\(event\);)/S/JavaScript/Type/Action>>>>/AP<</N 357 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/MaxLen 10/P 152 0 R /Q 1/Rect[ 475 672 544 684]/Subtype/Widget/T(Binder_ExpirationDate_A)/TU(Enter date: The date on which the terms and conditions of the policy will or have expired. Certain state laws limit the terms of a binder, so this date may not coincide with the policy expiration date. )/Type/Annot>>
+endobj
+29 0 obj
+<</AP<</D<</1 161 0 R /Off 162 0 R >>/N<</1 163 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 547 684 562 696]/Subtype/Widget/T(Binder_MidnightExpirationTimeIndicator_A)/TU(Check the box \(if applicable\): Indicates the binder expires at 12:01 AM on the expiration date. )/Type/Annot>>
+endobj
+30 0 obj
+<</AP<</D<</1 164 0 R /Off 165 0 R >>/N<</1 166 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 547 672 562 684]/Subtype/Widget/T(Binder_NoonExpirationTimeIndicator_A)/TU(Check the box \(if applicable\): Indicates the binder expires at 12:00 noon on the expiration date. )/Type/Annot>>
+endobj
+31 0 obj
+<</AP<</D<</1 167 0 R /Off 168 0 R >>/N<</1 169 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 306 654 320 666]/Subtype/Widget/T(Binder_ExtensionIndicator_A)/TU(Check the box \(if applicable\): Indicates the binder is issued to extend coverage on a policy where renewal is not yet available. )/Type/Annot>>
+endobj
+32 0 obj
+<</AP<</N 360 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 403 648 590 660]/Subtype/Widget/T(Binder_ExpiringPolicyNumberIdentifier_A)/TU(Enter identifier: The policy number of the policy that is expiring. )/Type/Annot>>
+endobj
+33 0 obj
+<</AP<</N 363 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 310 576 590 636]/Subtype/Widget/T(Binder_OperationsDescription_A)/TU(Enter text: The description of operations of the insured, vehicle information and usage, and, for property exposures, location information. Examples include: Machine Tool Die Casters; 91 Chevy H10 Pick Up Truck - VIN C12345P8991, used for delivery; Location 1 - 123 North Main St, Hartford, Ct. If the location is the same as the mailing address, and this address is properly descriptive, state "same as mailing address," rather than repeat the address. )/Type/Annot>>
+endobj
+34 0 obj
+<</AP<</D<</1 170 0 R /Off 171 0 R >>/N<</1 172 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 528 32 540]/Subtype/Widget/T(Policy_PolicyType_BasicIndicator_A)/TU(Check the box \(if applicable\): Indicates the type of policy / perils insured is basic. )/Type/Annot>>
+endobj
+35 0 obj
+<</AP<</D<</1 173 0 R /Off 174 0 R >>/N<</1 175 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 65 528 79 540]/Subtype/Widget/T(Policy_PolicyType_BroadIndicator_A)/TU(Check the box \(if applicable\): Indicates the type of policy / perils insured is broad. )/Type/Annot>>
+endobj
+36 0 obj
+<</AP<</D<</1 176 0 R /Off 177 0 R >>/N<</1 178 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 108 528 122 540]/Subtype/Widget/T(Policy_PolicyType_SpecialIndicator_A)/TU(Check the box \(if applicable\): Indicates the type of policy / perils insured is special. )/Type/Annot>>
+endobj
+37 0 obj
+<</AP<</D<</1 179 0 R /Off 180 0 R >>/N<</1 181 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 516 32 528]/Subtype/Widget/T(Policy_PolicyType_OtherIndicator_A)/TU(Check the box \(if applicable\): Indicates the type of policy / perils insured is other than those listed. )/Type/Annot>>
+endobj
+38 0 obj
+<</AP<</N 366 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 36 516 148 528]/Subtype/Widget/T(Policy_PolicyType_OtherDescription_A)/TU(Enter text: The description of the type of policy issued to the insured. )/Type/Annot>>
+endobj
+39 0 obj
+<</AP<</D<</1 182 0 R /Off 183 0 R >>/N<</1 184 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 504 32 516]/Subtype/Widget/T(Policy_PolicyType_OtherIndicator_B)/TU(Check the box \(if applicable\): Indicates the type of policy / perils insured is other than those listed. )/Type/Annot>>
+endobj
+40 0 obj
+<</AP<</N 369 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 36 504 148 516]/Subtype/Widget/T(Policy_PolicyType_OtherDescription_B)/TU(Enter text: The description of the type of policy issued to the insured. )/Type/Annot>>
+endobj
+41 0 obj
+<</AP<</N 372 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 155 540 191 552]/Subtype/Widget/T(CommercialProperty_Premises_SubjectOfInsuranceCode_A)/TU(Enter code: The code designating all unit at risk / coverages that are to be insured at this particular location number / building number combination.\n\nExamples:\n\nB - Building\nBUSIN -  Business Income with Extra Expense\nBUSER - Business Income with Extra Expense and Rental Value  \nBUSRN - Business Income with Rental Value without Extra Expense\nBPP - Business Personal Property \nEE - Extra Expense \nFF - Furniture & Fixtures \nLBI - Loss of Business Income \nMACEQ - Machinery, Equipment \nPP - Personal Property \nPOTOP - Property of Others \nSTK - Stock  )/Type/Annot>>
+endobj
+42 0 obj
+<</AP<</N 375 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 194 540 418 552]/Subtype/Widget/T(Binder_Property_CoverageFormsDescription_A)/TU(Enter text: The subjects of insurance that are being covered and any necessary location information \(e.g., Loc 1 Building Personal Property Dwelling\). )/Type/Annot>>
+endobj
+43 0 obj
+<</AP<</N 378 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 425 540 468 552]/Subtype/Widget/T(CommercialProperty_Premises_DeductibleAmount_A)/TU(Enter deductible: The deductible amount that is to apply to this subject of insurance. )/Type/Annot>>
+endobj
+44 0 obj
+<</AP<</N 381 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Q 1/Rect[ 475 540 511 552]/Subtype/Widget/T(CommercialProperty_Premises_CoinsurancePercent_A)/TU(Enter percentage: The Coinsurance Percentage is the percentage of the total value of the subject of insurance being insured.  If the amount of insurance falls below this percentage, the insured must share in the amount of the loss.  This field should be completed even when writing agreed amount coverage. )/Type/Annot>>
+endobj
+45 0 obj
+<</AP<</N 384 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 518 540 590 552]/Subtype/Widget/T(CommercialProperty_Premises_LimitAmount_A)/TU(Enter limit: The maximum amount of coverage provided for this subject of insurance or premium-bearing option. )/Type/Annot>>
+endobj
+46 0 obj
+<</AP<</N 387 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 155 528 191 540]/Subtype/Widget/T(CommercialProperty_Premises_SubjectOfInsuranceCode_B)/TU(Enter code: The code designating all unit at risk / coverages that are to be insured at this particular location number / building number combination.\n\nExamples:\n\nB - Building\nBUSIN -  Business Income with Extra Expense\nBUSER - Business Income with Extra Expense and Rental Value  \nBUSRN - Business Income with Rental Value without Extra Expense\nBPP - Business Personal Property \nEE - Extra Expense \nFF - Furniture & Fixtures \nLBI - Loss of Business Income \nMACEQ - Machinery, Equipment \nPP - Personal Property \nPOTOP - Property of Others \nSTK - Stock  )/Type/Annot>>
+endobj
+47 0 obj
+<</AP<</N 390 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 194 528 418 540]/Subtype/Widget/T(Binder_Property_CoverageFormsDescription_B)/TU(Enter text: The subjects of insurance that are being covered and any necessary location information \(e.g., Loc 1 Building Personal Property Dwelling\). )/Type/Annot>>
+endobj
+48 0 obj
+<</AP<</N 393 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 425 528 468 540]/Subtype/Widget/T(CommercialProperty_Premises_DeductibleAmount_B)/TU(Enter deductible: The deductible amount that is to apply to this subject of insurance. )/Type/Annot>>
+endobj
+49 0 obj
+<</AP<</N 396 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Q 1/Rect[ 475 528 511 540]/Subtype/Widget/T(CommercialProperty_Premises_CoinsurancePercent_B)/TU(Enter percentage: The Coinsurance Percentage is the percentage of the total value of the subject of insurance being insured.  If the amount of insurance falls below this percentage, the insured must share in the amount of the loss.  This field should be completed even when writing agreed amount coverage. )/Type/Annot>>
+endobj
+50 0 obj
+<</AP<</N 399 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 518 528 590 540]/Subtype/Widget/T(CommercialProperty_Premises_LimitAmount_B)/TU(Enter limit: The maximum amount of coverage provided for this subject of insurance or premium-bearing option. )/Type/Annot>>
+endobj
+51 0 obj
+<</AP<</N 402 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 155 516 191 528]/Subtype/Widget/T(CommercialProperty_Premises_SubjectOfInsuranceCode_C)/TU(Enter code: The code designating all unit at risk / coverages that are to be insured at this particular location number / building number combination.\n\nExamples:\n\nB - Building\nBUSIN -  Business Income with Extra Expense\nBUSER - Business Income with Extra Expense and Rental Value  \nBUSRN - Business Income with Rental Value without Extra Expense\nBPP - Business Personal Property \nEE - Extra Expense \nFF - Furniture & Fixtures \nLBI - Loss of Business Income \nMACEQ - Machinery, Equipment \nPP - Personal Property \nPOTOP - Property of Others \nSTK - Stock  )/Type/Annot>>
+endobj
+52 0 obj
+<</AP<</N 405 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 194 516 418 528]/Subtype/Widget/T(Binder_Property_CoverageFormsDescription_C)/TU(Enter text: The subjects of insurance that are being covered and any necessary location information \(e.g., Loc 1 Building Personal Property Dwelling\). )/Type/Annot>>
+endobj
+53 0 obj
+<</AP<</N 408 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 425 516 468 528]/Subtype/Widget/T(CommercialProperty_Premises_DeductibleAmount_C)/TU(Enter deductible: The deductible amount that is to apply to this subject of insurance. )/Type/Annot>>
+endobj
+54 0 obj
+<</AP<</N 411 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Q 1/Rect[ 475 516 511 528]/Subtype/Widget/T(CommercialProperty_Premises_CoinsurancePercent_C)/TU(Enter percentage: The Coinsurance Percentage is the percentage of the total value of the subject of insurance being insured.  If the amount of insurance falls below this percentage, the insured must share in the amount of the loss.  This field should be completed even when writing agreed amount coverage. )/Type/Annot>>
+endobj
+55 0 obj
+<</AP<</N 414 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 518 516 590 528]/Subtype/Widget/T(CommercialProperty_Premises_LimitAmount_C)/TU(Enter limit: The maximum amount of coverage provided for this subject of insurance or premium-bearing option. )/Type/Annot>>
+endobj
+56 0 obj
+<</AP<</N 417 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 155 504 191 516]/Subtype/Widget/T(CommercialProperty_Premises_SubjectOfInsuranceCode_D)/TU(Enter code: The code designating all unit at risk / coverages that are to be insured at this particular location number / building number combination.\n\nExamples:\n\nB - Building\nBUSIN -  Business Income with Extra Expense\nBUSER - Business Income with Extra Expense and Rental Value  \nBUSRN - Business Income with Rental Value without Extra Expense\nBPP - Business Personal Property \nEE - Extra Expense \nFF - Furniture & Fixtures \nLBI - Loss of Business Income \nMACEQ - Machinery, Equipment \nPP - Personal Property \nPOTOP - Property of Others \nSTK - Stock  )/Type/Annot>>
+endobj
+57 0 obj
+<</AP<</N 420 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 194 504 418 516]/Subtype/Widget/T(Binder_Property_CoverageFormsDescription_D)/TU(Enter text: The subjects of insurance that are being covered and any necessary location information \(e.g., Loc 1 Building Personal Property Dwelling\). )/Type/Annot>>
+endobj
+58 0 obj
+<</AP<</N 423 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 425 504 468 516]/Subtype/Widget/T(CommercialProperty_Premises_DeductibleAmount_D)/TU(Enter deductible: The deductible amount that is to apply to this subject of insurance. )/Type/Annot>>
+endobj
+59 0 obj
+<</AP<</N 426 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Q 1/Rect[ 475 504 511 516]/Subtype/Widget/T(CommercialProperty_Premises_CoinsurancePercent_D)/TU(Enter percentage: The Coinsurance Percentage is the percentage of the total value of the subject of insurance being insured.  If the amount of insurance falls below this percentage, the insured must share in the amount of the loss.  This field should be completed even when writing agreed amount coverage. )/Type/Annot>>
+endobj
+60 0 obj
+<</AP<</N 429 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 518 504 590 516]/Subtype/Widget/T(CommercialProperty_Premises_LimitAmount_D)/TU(Enter limit: The maximum amount of coverage provided for this subject of insurance or premium-bearing option. )/Type/Annot>>
+endobj
+61 0 obj
+<</AP<</D<</1 185 0 R /Off 186 0 R >>/N<</1 187 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 480 32 492]/Subtype/Widget/T(GeneralLiability_CoverageIndicator_A)/TU(Check the box \(if applicable\): Indicates the claims made or occurrence option applies for the general liability policy. )/Type/Annot>>
+endobj
+62 0 obj
+<</AP<</D<</1 188 0 R /Off 189 0 R >>/N<</1 190 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 32 468 47 480]/Subtype/Widget/T(GeneralLiability_ClaimsMadeIndicator_A)/TU(Check the box \(if applicable\): Indicates the "claims made" option applies on the general liability policy. )/Type/Annot>>
+endobj
+63 0 obj
+<</AP<</D<</1 191 0 R /Off 192 0 R >>/N<</1 193 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 108 468 122 480]/Subtype/Widget/T(GeneralLiability_OccurrenceIndicator_A)/TU(Check the box \(if applicable\): Indicates the general liability policy, occurrence basis applies. )/Type/Annot>>
+endobj
+64 0 obj
+<</AP<</D<</1 194 0 R /Off 195 0 R >>/N<</1 196 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 456 32 468]/Subtype/Widget/T(GeneralLiability_OtherCoverageIndicator_A)/TU(Check the box \(if applicable\): Indicates other coverage not found on the form exists for the general liability policy. )/Type/Annot>>
+endobj
+65 0 obj
+<</AP<</N 432 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 36 456 148 468]/Subtype/Widget/T(GeneralLiability_OtherCoverageDescription_A)/TU(Enter text: The description of other coverage \(not the limit\) on the general liability policy.  Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+66 0 obj
+<</AP<</D<</1 197 0 R /Off 198 0 R >>/N<</1 199 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 444 32 456]/Subtype/Widget/T(GeneralLiability_OtherCoverageIndicator_B)/TU(Check the box \(if applicable\): Indicates other coverage not found on the form exists for the general liability policy. )/Type/Annot>>
+endobj
+67 0 obj
+<</AP<</N 435 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 36 444 148 456]/Subtype/Widget/T(GeneralLiability_OtherCoverageDescription_B)/TU(Enter text: The description of other coverage \(not the limit\) on the general liability policy.  Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+68 0 obj
+<</AP<</D<</1 200 0 R /Off 201 0 R >>/N<</1 202 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 432 32 444]/Subtype/Widget/T(GeneralLiability_OtherCoverageIndicator_C)/TU(Check the box \(if applicable\): Indicates other coverage not found on the form exists for the general liability policy. )/Type/Annot>>
+endobj
+69 0 obj
+<</AP<</N 438 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 36 432 148 444]/Subtype/Widget/T(GeneralLiability_OtherCoverageDescription_C)/TU(Enter text: The description of other coverage \(not the limit\) on the general liability policy.  Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+70 0 obj
+<</AP<</N 441 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 155 444 418 501]/Subtype/Widget/T(Binder_GeneralLiability_CoverageFormsDescription_A)/TU(Enter text: The commercial lines classification code\(s\) and description of the class\(es\) for which the binder is being issued. Include any form numbers. For Personal Lines enter the policy form numbers. )/Type/Annot>>
+endobj
+71 0 obj
+<</AA<</V<</JS(DateV\(event\);)/S/JavaScript/Type/Action>>>>/AP<</N 444 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/MaxLen 10/P 152 0 R /Rect[ 259 432 418 444]/Subtype/Widget/T(GeneralLiability_ClaimsMade_ProposedRetroactiveDate_A)/TU(Enter date: The retroactive date you are requesting for the policy being applied for. This is the proposed earliest date for which an occurrence could "trigger" coverage under a Claims Made policy. )/Type/Annot>>
+endobj
+72 0 obj
+<</AP<</N 447 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 492 590 504]/Subtype/Widget/T(GeneralLiability_EachOccurrence_LimitAmount_A)/TU(Enter limit: The general liability, each occurrence limit amount.  Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+73 0 obj
+<</AP<</N 450 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 480 590 492]/Subtype/Widget/T(GeneralLiability_FireDamageRentedPremises_EachOccurrenceLimitAmount_A)/TU(Enter limit: The general liability, damage to rented premises each occurrence limit amount.  Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+74 0 obj
+<</AP<</N 453 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 468 590 480]/Subtype/Widget/T(GeneralLiability_MedicalExpense_EachPersonLimitAmount_A)/TU(Enter limit: The general liability, medical expense each person limit amount.  Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+75 0 obj
+<</AP<</N 456 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 456 590 468]/Subtype/Widget/T(GeneralLiability_PersonalAndAdvertisingInjury_LimitAmount_A)/TU(Enter limit: The general liability, personal and advertising injury limit amount.  Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+76 0 obj
+<</AP<</N 459 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 444 590 456]/Subtype/Widget/T(GeneralLiability_GeneralAggregate_LimitAmount_A)/TU(Enter limit: The general liability, general aggregate limit amount.  Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+77 0 obj
+<</AP<</N 462 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 432 590 444]/Subtype/Widget/T(GeneralLiability_ProductsAndCompletedOperations_AggregateLimitAmount_A)/TU(Enter limit: The general liability, products and completed operations aggregate limit amount.  Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+78 0 obj
+<</AP<</D<</1 203 0 R /Off 204 0 R >>/N<</1 205 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 408 32 420]/Subtype/Widget/T(Vehicle_AnyAutoIndicator_A)/TU(Check the box \(if applicable\): Indicates the commercial vehicle policy covers any auto. )/Type/Annot>>
+endobj
+79 0 obj
+<</AP<</D<</1 206 0 R /Off 207 0 R >>/N<</1 208 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 396 32 408]/Subtype/Widget/T(Vehicle_AllOwnedAutosIndicator_A)/TU(Check the box \(if applicable\): Indicates the commercial vehicle policy covers owned autos only. )/Type/Annot>>
+endobj
+80 0 obj
+<</AP<</D<</1 209 0 R /Off 210 0 R >>/N<</1 211 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 384 32 396]/Subtype/Widget/T(Vehicle_ScheduledAutosIndicator_A)/TU(Check the box \(if applicable\): Indicates the vehicle policy covers scheduled autos. )/Type/Annot>>
+endobj
+81 0 obj
+<</AP<</D<</1 212 0 R /Off 213 0 R >>/N<</1 214 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 372 32 384]/Subtype/Widget/T(Vehicle_HiredAutosIndicator_A)/TU(Check the box \(if applicable\): Indicates the vehicle policy covers hired autos only. )/Type/Annot>>
+endobj
+82 0 obj
+<</AP<</D<</1 215 0 R /Off 216 0 R >>/N<</1 217 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 360 32 372]/Subtype/Widget/T(Vehicle_NonOwnedAutosIndicator_A)/TU(Check the box \(if applicable\): Indicates the vehicle policy covers non-owned autos only. )/Type/Annot>>
+endobj
+83 0 obj
+<</AP<</D<</1 218 0 R /Off 219 0 R >>/N<</1 220 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 348 32 360]/Subtype/Widget/T(Vehicle_BusinessAutoSymbol_OtherSymbolIndicator_A)/TU(Check the box \(if applicable\): Indicates that a symbol other than those listed should be used. )/Type/Annot>>
+endobj
+84 0 obj
+<</AP<</N 465 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 36 348 148 360]/Subtype/Widget/T(Vehicle_BusinessAutoSymbol_OtherSymbolCode_A)/TU(Enter code: The symbol code for the coverage.  Use the symbols specified for a coverage, or enter a company-unique symbol if applicable. )/Type/Annot>>
+endobj
+85 0 obj
+<</AP<</D<</1 221 0 R /Off 222 0 R >>/N<</1 223 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 336 32 348]/Subtype/Widget/T(Vehicle_BusinessAutoSymbol_OtherSymbolIndicator_B)/TU(Check the box \(if applicable\): Indicates that a symbol other than those listed should be used. )/Type/Annot>>
+endobj
+86 0 obj
+<</AP<</N 468 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 36 336 148 348]/Subtype/Widget/T(Vehicle_BusinessAutoSymbol_OtherSymbolCode_B)/TU(Enter code: The symbol code for the coverage.  Use the symbols specified for a coverage, or enter a company-unique symbol if applicable. )/Type/Annot>>
+endobj
+87 0 obj
+<</AP<</N 471 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 155 336 418 429]/Subtype/Widget/T(Binder_VehicleLiability_CoverageFormsDescription_A)/TU(Enter text: The description of any policy form numbers associated with vehicle liability coverage. )/Type/Annot>>
+endobj
+88 0 obj
+<</AP<</N 474 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 420 590 432]/Subtype/Widget/T(Vehicle_CombinedSingleLimit_EachAccidentAmount_A)/TU(Enter limit: The vehicle combined single limit liability each accident amount.  Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+89 0 obj
+<</AP<</N 477 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 408 590 420]/Subtype/Widget/T(Vehicle_BodilyInjury_PerPersonLimitAmount_A)/TU(Enter limit: The vehicle policy, bodily injury per person limit amount.  Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+90 0 obj
+<</AP<</N 480 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 396 590 408]/Subtype/Widget/T(Vehicle_BodilyInjury_PerAccidentLimitAmount_A)/TU(Enter limit: The vehicle policy, bodily injury per accident limit amount.  Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+91 0 obj
+<</AP<</N 483 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 384 590 396]/Subtype/Widget/T(Vehicle_PropertyDamage_PerAccidentLimitAmount_A)/TU(Enter limit: The vehicle policy, property damage per accident limit amount.  Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+92 0 obj
+<</AP<</N 486 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 372 590 384]/Subtype/Widget/T(Vehicle_MedicalPayments_PerPersonLimitAmount_A)/TU(Enter limit: The medical payments per person limit. )/Type/Annot>>
+endobj
+93 0 obj
+<</AP<</N 489 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 360 590 372]/Subtype/Widget/T(Vehicle_PIP_LimitAmount_A)/TU(Enter limit: The personal injury protection \(PIP\) limit amount. )/Type/Annot>>
+endobj
+94 0 obj
+<</AP<</N 492 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 348 590 360]/Subtype/Widget/T(Vehicle_UninsuredMotorists_CombinedSingleLimitPerAccidentAmount_A)/TU(Enter limit: The uninsured motorists combined single limit per accident limit amount. )/Type/Annot>>
+endobj
+95 0 obj
+<</AP<</N 495 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 425 336 511 348]/Subtype/Widget/T(Vehicle_OtherCoverage_CoverageDescription_A)/TU(Enter text: The description of the coverage. )/Type/Annot>>
+endobj
+96 0 obj
+<</AP<</N 498 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 336 590 348]/Subtype/Widget/T(Vehicle_OtherCoverage_LimitAmount_A)/TU(Enter limit: The limit amount of the other coverage. )/Type/Annot>>
+endobj
+97 0 obj
+<</AP<</D<</1 224 0 R /Off 225 0 R >>/N<</1 226 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 312 32 324]/Subtype/Widget/T(Vehicle_Collision_CoverageIndicator_A)/TU(Check the box \(if applicable\): Indicates the vehicle has collision coverage. )/Type/Annot>>
+endobj
+98 0 obj
+<</AP<</N 501 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Q 1/Rect[ 101 312 144 324]/Subtype/Widget/T(Vehicle_Collision_DeductibleAmount_A)/TU(Enter deductible: The collision deductible amount. )/Type/Annot>>
+endobj
+99 0 obj
+<</AP<</D<</1 227 0 R /Off 228 0 R >>/N<</1 229 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 300 32 312]/Subtype/Widget/T(Vehicle_Comprehensive_CoverageIndicator_A)/TU(Check the box \(if applicable\): Indicates the vehicle has comprehensive or other than collision coverage. )/Type/Annot>>
+endobj
+100 0 obj
+<</AP<</N 504 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Q 1/Rect[ 101 300 144 312]/Subtype/Widget/T(Vehicle_Comprehensive_DeductibleAmount_A)/TU(Enter deductible: The comprehensive or other than collision deductible amount. )/Type/Annot>>
+endobj
+101 0 obj
+<</AP<</D<</1 230 0 R /Off 231 0 R >>/N<</1 232 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 151 324 166 336]/Subtype/Widget/T(Vehicle_CollisionOption_AllVehiclesIndicator_A)/TU(Check the box \(if applicable\): Indicates collision coverage applies to all vehicles. )/Type/Annot>>
+endobj
+102 0 obj
+<</AP<</D<</1 233 0 R /Off 234 0 R >>/N<</1 235 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 238 324 252 336]/Subtype/Widget/T(Vehicle_CollisionOption_ScheduledVehiclesIndicator_A)/TU(Check the box \(if applicable\): Indicates collision coverage applies to scheduled vehicles only. )/Type/Annot>>
+endobj
+103 0 obj
+<</AP<</N 507 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 155 300 418 324]/Subtype/Widget/T(Binder_VehiclePhysicalDamage_CoverageFormsDescription_A)/TU(Enter text: The description of any policy form numbers associated with vehicle physical damage coverage. )/Type/Annot>>
+endobj
+104 0 obj
+<</AP<</D<</1 236 0 R /Off 237 0 R >>/N<</1 238 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 421 324 436 336]/Subtype/Widget/T(Vehicle_Coverage_ValuationActualCashValueIndicator_A)/TU(Check the box \(if applicable\): Indicates the valuation method used in determining the value of the vehicle at the time of loss is the actual cash value or market value. )/Type/Annot>>
+endobj
+105 0 obj
+<</AP<</D<</1 239 0 R /Off 240 0 R >>/N<</1 241 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 421 312 436 324]/Subtype/Widget/T(Vehicle_Coverage_ValuationStatedAmountIndicator_A)/TU(Check the box \(if applicable\): Indicates the valuation method used in determining the value of the vehicle at the time of loss is the stated amount. )/Type/Annot>>
+endobj
+106 0 obj
+<</AP<</D<</1 242 0 R /Off 243 0 R >>/N<</1 244 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 421 300 436 312]/Subtype/Widget/T(Vehicle_Coverage_ValuationOtherIndicator_A)/TU(Check the box \(if applicable\): Indicates the valuation method used in determining the value of the vehicle at the time of loss is other than those listed. )/Type/Annot>>
+endobj
+107 0 obj
+<</AP<</N 510 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 439 300 511 312]/Subtype/Widget/T(Vehicle_Coverage_ValuationOtherDescription_A)/TU(Enter text: The valuation method used in determining the value of the vehicle at the time of loss. )/Type/Annot>>
+endobj
+108 0 obj
+<</AP<</N 513 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 312 590 324]/Subtype/Widget/T(Vehicle_Collision_StatedLimitAmount_A)/TU(Enter limit: The limit associated with comprehensive and collision coverage is the actual cash value of the vehicle, unless an amount is stated here.  As used here,  the combined sum of the vehicles physical damage valuation.)/Type/Annot>>
+endobj
+109 0 obj
+<</AP<</D<</1 245 0 R /Off 246 0 R >>/N<</1 247 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 276 32 288]/Subtype/Widget/T(GarageLiability_AnyAutoIndicator_A)/TU(Check the box \(if applicable\): Indicates the "Any Auto" option applies to the commercial garage liability policy. )/Type/Annot>>
+endobj
+110 0 obj
+<</AP<</D<</1 248 0 R /Off 249 0 R >>/N<</1 250 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 264 32 276]/Subtype/Widget/T(Vehicle_GarageAndDealersSymbol_OtherSymbolIndicator_A)/TU(Check the box \(if applicable\): Indicates that a symbol other than those listed should be used. )/Type/Annot>>
+endobj
+111 0 obj
+<</AP<</N 516 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 36 264 148 276]/Subtype/Widget/T(Vehicle_GarageAndDealersSymbol_OtherSymbolCode_A)/TU(Enter code: The symbol code for the coverage.  Use the symbols specified for a coverage, or enter a company-unique symbol if applicable. )/Type/Annot>>
+endobj
+112 0 obj
+<</AP<</D<</1 251 0 R /Off 252 0 R >>/N<</1 253 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 252 32 264]/Subtype/Widget/T(Vehicle_GarageAndDealersSymbol_OtherSymbolIndicator_B)/TU(Check the box \(if applicable\): Indicates that a symbol other than those listed should be used. )/Type/Annot>>
+endobj
+113 0 obj
+<</AP<</N 519 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 36 252 148 264]/Subtype/Widget/T(Vehicle_GarageAndDealersSymbol_OtherSymbolCode_B)/TU(Enter code: The symbol code for the coverage.  Use the symbols specified for a coverage, or enter a company-unique symbol if applicable. )/Type/Annot>>
+endobj
+114 0 obj
+<</AP<</N 522 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 155 252 418 297]/Subtype/Widget/T(Binder_GarageLiability_CoverageFormsDescription_A)/TU(Enter text: The description of any policy form numbers associated with garage liability coverage. )/Type/Annot>>
+endobj
+115 0 obj
+<</AP<</N 525 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 288 590 300]/Subtype/Widget/T(Vehicle_LiabilityAutoOnly_PerAccidentLimitAmount_A)/TU(Enter limit: The liability each accident limit for garage operations auto only.  For Dealers, use this field to enter the Policy Combined Single Limit. )/Type/Annot>>
+endobj
+116 0 obj
+<</AP<</N 528 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 518 276 590 288]/Subtype/Widget/T(Binder_GarageLiability_OtherThanAutoOnlyDescription_A)/TU(Enter text: The description of the coverage for other than auto only. )/Type/Annot>>
+endobj
+117 0 obj
+<</AP<</N 531 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 264 590 276]/Subtype/Widget/T(Vehicle_LiabilityOtherThanAutoOnly_PerAccidentLimitAmount_A)/TU(Enter limit: The liability each accident limit for garage operations other than auto only. )/Type/Annot>>
+endobj
+118 0 obj
+<</AP<</N 534 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 252 590 264]/Subtype/Widget/T(Vehicle_LiabilityOtherThanAutoOnly_AggregateLimitAmount_A)/TU(Enter limit: The liability aggregate limit for garage operations other than auto only. )/Type/Annot>>
+endobj
+119 0 obj
+<</AP<</D<</1 254 0 R /Off 255 0 R >>/N<</1 256 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 228 32 240]/Subtype/Widget/T(Binder_ExcessUmbrella_UmbrellaIndicator_A)/TU(Check the box \(if applicable\): Indicates the information provided is for an umbrella policy. )/Type/Annot>>
+endobj
+120 0 obj
+<</AP<</D<</1 257 0 R /Off 258 0 R >>/N<</1 259 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 18 216 32 228]/Subtype/Widget/T(Binder_ExcessUmbrella_OtherPolicyTypeIndicator_A)/TU(Check the box \(if applicable\): Indicates the information provided is for a policy type other than umbrella. )/Type/Annot>>
+endobj
+121 0 obj
+<</AP<</N 537 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 155 228 418 252]/Subtype/Widget/T(Binder_ExcessUmbrella_CoverageFormsDescription_A)/TU(Enter text: The description of any policy form numbers associated with excess or umbrella coverage.  If the policy is other than umbrella box is checked, an additional reference should be made in the Coverage / Forms section stating the kind of policy and to which coverages the policy applies \(e.g., Excess - Auto section\). )/Type/Annot>>
+endobj
+122 0 obj
+<</AA<</V<</JS(DateV\(event\);)/S/JavaScript/Type/Action>>>>/AP<</N 540 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/MaxLen 10/P 152 0 R /Rect[ 259 216 418 228]/Subtype/Widget/T(ExcessUmbrella_CurrentRetroactiveDate_A)/TU(Enter date: The current retroactive date should be shown if the Umbrella is over a Claims Made primary policy. If the current retroactive date is different from the proposed retroactive date, an explanation must be provided. )/Type/Annot>>
+endobj
+123 0 obj
+<</AP<</N 543 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 240 590 252]/Subtype/Widget/T(ExcessUmbrella_Umbrella_EachOccurrenceAmount_A)/TU(Enter limit: The excess or umbrella liability each occurrence limit.  As used here, enter the limits as governed by the policy.)/Type/Annot>>
+endobj
+124 0 obj
+<</AP<</N 546 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 228 590 240]/Subtype/Widget/T(ExcessUmbrella_Umbrella_AggregateAmount_A)/TU(Enter limit: The excess or umbrella liability aggregate limit should be listed as whole dollar amount, as governed by the policy.  Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+125 0 obj
+<</AP<</N 549 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 216 590 228]/Subtype/Widget/T(ExcessUmbrella_Umbrella_DeductibleOrRetentionAmount_A)/TU(Enter deductible: The excess or umbrella liability deductible or retention amount. )/Type/Annot>>
+endobj
+126 0 obj
+<</AP<</N 552 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 155 168 418 213]/Subtype/Widget/T(Binder_WorkersCompensation_CoverageFormsDescription_A)/TU(Enter text: The description of any policy form numbers associated with workers compensation coverage. )/Type/Annot>>
+endobj
+127 0 obj
+<</AP<</D<</1 260 0 R /Off 261 0 R >>/N<</1 262 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 421 204 436 216]/Subtype/Widget/T(WorkersCompensationEmployersLiability_WorkersCompensationStatutoryLimitIndicator_A)/TU(Check the box \(if applicable\): Indicates that workers compensation coverage is per statute. )/Type/Annot>>
+endobj
+128 0 obj
+<</AP<</N 555 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 518 204 590 216]/Subtype/Widget/T(WorkersCompensationEmployersLiability_OtherCoverageDescription_A)/TU(Enter text: The description of other coverage \(not the limit\) on the workers compensation and employers liability policy. Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+129 0 obj
+<</AP<</N 558 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 192 590 204]/Subtype/Widget/T(WorkersCompensationEmployersLiability_EmployersLiability_EachAccidentLimitAmount_A)/TU(Enter limit: The workers compensation and employers liability policy, employers liability each accident limit amount. Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+130 0 obj
+<</AP<</N 561 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 180 590 192]/Subtype/Widget/T(WorkersCompensationEmployersLiability_EmployersLiability_DiseaseEachEmployeeLimitAmount_A)/TU(Enter limit: The workers compensation and employers liability policy, employers liability disease each employee limit amount. Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+131 0 obj
+<</AP<</N 564 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 168 590 180]/Subtype/Widget/T(WorkersCompensationEmployersLiability_EmployersLiability_DiseasePolicyLimitAmount_A)/TU(Enter limit: The workers compensation and employers liability policy, employers liability disease policy limit amount.  Any questions about appropriate limits or applicable policy coverage\(s\) should be answered by the issuing insurer\(s\). )/Type/Annot>>
+endobj
+132 0 obj
+<</AP<</N 567 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8392704/P 152 0 R /Rect[ 68 132 418 168]/Subtype/Widget/T(Binder_SpecialConditionsDescription_A)/TU(Enter text: The description of any additional information pertinent to the bound policies.  Include any special endorsements that are not specified in other sections of the binder.  The area can also be used to add other coverages, refer to other binders, acknowledge receipt of deposit premium, or show fees, taxes and/or estimated premium )/Type/Annot>>
+endobj
+133 0 obj
+<</AP<</N 570 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 156 590 168]/Subtype/Widget/T(Policy_Payment_FeeAmount_A)/TU(Enter amount: The amount of fees associated with the policy. )/Type/Annot>>
+endobj
+134 0 obj
+<</AP<</N 573 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 144 590 156]/Subtype/Widget/T(Policy_Payment_TaxAmount_A)/TU(Enter amount: The amount of taxes associated with the policy. )/Type/Annot>>
+endobj
+135 0 obj
+<</AP<</N 576 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 526 132 590 144]/Subtype/Widget/T(Policy_Payment_EstimatedTotalAmount_A)/TU(Enter amount: The estimated total cost amount of the policy. )/Type/Annot>>
+endobj
+136 0 obj
+<</AP<</N 579 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 79 90 299 102]/Subtype/Widget/T(AdditionalInterest_FullName_A)/TU(Enter text: The additional interest's full name. )/Type/Annot>>
+endobj
+137 0 obj
+<</AP<</N 582 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 79 78 299 90]/Subtype/Widget/T(AdditionalInterest_MailingAddress_LineOne_A)/TU(Enter text: The additional interest's mailing address line one. )/Type/Annot>>
+endobj
+138 0 obj
+<</AP<</N 585 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 79 66 299 78]/Subtype/Widget/T(AdditionalInterest_MailingAddress_LineTwo_A)/TU(Enter text: The additional interest's mailing address line two. )/Type/Annot>>
+endobj
+139 0 obj
+<</AP<</N 588 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 79 54 234 66]/Subtype/Widget/T(AdditionalInterest_MailingAddress_CityName_A)/TU(Enter text: The additional interest's mailing address city name. )/Type/Annot>>
+endobj
+140 0 obj
+<</AP<</N 591 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 234 54 252 66]/Subtype/Widget/T(AdditionalInterest_MailingAddress_StateOrProvinceCode_A)/TU(Enter code: The additional interest's mailing address state or province code. )/Type/Annot>>
+endobj
+141 0 obj
+<</AP<</N 594 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 252 54 299 66]/Subtype/Widget/T(AdditionalInterest_MailingAddress_PostalCode_A)/TU(Enter code: The additional interest's mailing address postal code. )/Type/Annot>>
+endobj
+142 0 obj
+<</AP<</D<</1 263 0 R /Off 264 0 R >>/N<</1 265 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 302 108 317 120]/Subtype/Widget/T(AdditionalInterest_Interest_AdditionalInsuredIndicator_A)/TU(Check the box \(if applicable\): Indicates the additional interest type is an additional insured. )/Type/Annot>>
+endobj
+143 0 obj
+<</AP<</D<</1 266 0 R /Off 267 0 R >>/N<</1 268 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 302 96 317 108]/Subtype/Widget/T(AdditionalInterest_Interest_LendersLossPayableIndicator_A)/TU(Check the box \(if applicable\): Indicates the additional interest type is a lender's loss payable. )/Type/Annot>>
+endobj
+144 0 obj
+<</AP<</D<</1 625 0 R /Off 626 0 R >>/N<</1 623 0 R /Off 624 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 400 108 414 120]/Subtype/Widget/T(AdditionalInterest_Interest_LossPayeeIndicator_A)/TU(Check the box \(if applicable\): Indicates the additional interest type is a loss payee. )/Type/Annot/V/Off>>
+endobj
+145 0 obj
+<</AP<</D<</1 272 0 R /Off 273 0 R >>/N<</1 274 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 482 108 497 120]/Subtype/Widget/T(AdditionalInterest_Interest_MortgageeIndicator_A)/TU(Check the box \(if applicable\): Indicates the additional interest type is a mortgagee. )/Type/Annot>>
+endobj
+146 0 obj
+<</AP<</D<</1 621 0 R /Off 622 0 R >>/N<</1 619 0 R /Off 620 0 R >>>>/AS/Off/F 4/FT/Btn/Ff 8388608/MK<</CA(8)>>/P 152 0 R /Rect[ 400 96 414 108]/Subtype/Widget/T(AdditionalInterest_Interest_OtherIndicator_A)/TU(Check the box \(if applicable\): Indicates the additional interest is other than those listed. )/Type/Annot/V/Off>>
+endobj
+147 0 obj
+<</AP<</N 597 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 418 96 590 108]/Subtype/Widget/T(AdditionalInterest_Interest_OtherDescription_A)/TU(Enter text: The description of the other type of additional interest. )/Type/Annot>>
+endobj
+148 0 obj
+<</AP<</N 600 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 335 84 590 96]/Subtype/Widget/T(AdditionalInterest_AccountNumberIdentifier_A)/TU(Enter identifier: The loan number, account number or other controlling number that the additional interest may have assigned the insured. )/Type/Annot>>
+endobj
+149 0 obj
+<</AP<</N 603 0 R >>/DA(/F2 8 Tf 0 g)/F 4/FT/Tx/Ff 8388608/P 152 0 R /Rect[ 306 48 590 72]/Subtype/Widget/T(Producer_AuthorizedRepresentative_Signature_A)/TU(Sign here: Accommodates the signature of the authorized representative \(e.g., producer, agent, broker, etc.\) of the company\(ies\) listed on the document.  This is required in most states.  As used here, binders must be signed by authorized representatives of the issuing company.)/Type/Annot>>
+endobj
+150 0 obj
+<</Count 2/Kids[ 152 0 R  278 0 R ]/Type/Pages>>
+endobj
+151 0 obj
+<</Author(ACORD Corporation)/CreationDate(D:20150824114619-04'00')/Creator(Silverlake Software LLC - Forms Dev Environment)/ModDate(D:20150824114619-04'00')/Producer(Silverlake Software LLC - Form Designer - v1.4.15348)/Title(ACORD 0075 2016-03 Acroform)>>
+endobj
+152 0 obj
+<</Annots 279 0 R /Contents 280 0 R /CropBox[ 0 0 612 792]/MediaBox[ 0 0 612 792]/Parent 150 0 R /Resources<</Font<</F1 281 0 R /F2 2 0 R >>/ProcSet[/PDF/Text/ImageB]/XObject<</Img1 282 0 R >>>>/Type/Page>>
+endobj
+153 0 obj
+<</AP<</N 324 0 R >>/F 4/P 152 0 R /Parent 15 0 R /Rect[ 68 636 302 648]/Subtype/Widget/Type/Annot>>
+endobj
+154 0 obj
+<</AP<</N 606 0 R >>/F 4/P 278 0 R /Parent 15 0 R /Rect[ 414 756 594 768]/Subtype/Widget/Type/Annot>>
+endobj
+158 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+159 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+160 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+161 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+162 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+163 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+164 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+165 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+166 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+167 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+168 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+169 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+170 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+171 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+172 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+173 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+174 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+175 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+176 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+177 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+178 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+179 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+180 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+181 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+182 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+183 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+184 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+185 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+186 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+187 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+188 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+189 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+190 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+191 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+192 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+193 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+194 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+195 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+196 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+197 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+198 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+199 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+200 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+201 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+202 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+203 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+204 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+205 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+206 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+207 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+208 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+209 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+210 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+211 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+212 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+213 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+214 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+215 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+216 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+217 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+218 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+219 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+220 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+221 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+222 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+223 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+224 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+225 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+226 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+227 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+228 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+229 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+230 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+231 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+232 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+233 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+234 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+235 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+236 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+237 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+238 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+239 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+240 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+241 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+242 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+243 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+244 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+245 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+246 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+247 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+248 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+249 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+250 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+251 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+252 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+253 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+254 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+255 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+256 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+257 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+258 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+259 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+260 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+261 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+262 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+263 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+264 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+265 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+266 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+267 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+268 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+272 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 67/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\ÆzF@°l./—¡!ˆ–Ïñà’ÆÈrÁ¼\¼\ °Wè
+endstream
+endobj
+273 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 41/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ğ37UHÑ
+`ÂĞDÏHØE©¼\i¼\¼\ «Q¨
+endstream
+endobj
+274 0 obj
+<</BBox[ 0 0 14.4 12]/Filter[/FlateDecode]/FormType 1/Length 45/Subtype/Form/Type/XObject>>stream
+xœ+äå2Ö32P04Ğ30PÈåå24q@¼.iŒ,ÌËÈË |ç1
+endstream
+endobj
+278 0 obj
+<</Annots 283 0 R /Contents 284 0 R /CropBox[ 0 0 612 792]/MediaBox[ 0 0 612 792]/Parent 150 0 R /Resources<</Font<</F1 281 0 R /F2 2 0 R >>/ProcSet[/PDF/Text/ImageB]>>/Type/Page>>
+endobj
+279 0 obj
+[ 3 0 R  4 0 R  5 0 R  6 0 R  7 0 R  8 0 R  9 0 R  10 0 R  11 0 R  12 0 R  13 0 R  14 0 R  153 0 R  16 0 R  17 0 R  18 0 R  19 0 R  20 0 R  21 0 R  22 0 R  23 0 R  24 0 R  25 0 R  26 0 R  27 0 R  28 0 R  29 0 R  30 0 R  31 0 R  32 0 R  33 0 R  34 0 R  35 0 R  36 0 R  37 0 R  38 0 R  39 0 R  40 0 R  41 0 R  42 0 R  43 0 R  44 0 R  45 0 R  46 0 R  47 0 R  48 0 R  49 0 R  50 0 R  51 0 R  52 0 R  53 0 R  54 0 R  55 0 R  56 0 R  57 0 R  58 0 R  59 0 R  60 0 R  61 0 R  62 0 R  63 0 R  64 0 R  65 0 R  66 0 R  67 0 R  68 0 R  69 0 R  70 0 R  71 0 R  72 0 R  73 0 R  74 0 R  75 0 R  76 0 R  77 0 R  78 0 R  79 0 R  80 0 R  81 0 R  82 0 R  83 0 R  84 0 R  85 0 R  86 0 R  87 0 R  88 0 R  89 0 R  90 0 R  91 0 R  92 0 R  93 0 R  94 0 R  95 0 R  96 0 R  97 0 R  98 0 R  99 0 R  100 0 R  101 0 R  102 0 R  103 0 R  104 0 R  105 0 R  106 0 R  107 0 R  108 0 R  109 0 R  110 0 R  111 0 R  112 0 R  113 0 R  114 0 R  115 0 R  116 0 R  117 0 R  118 0 R  119 0 R  120 0 R  121 0 R  122 0 R  123 0 R  124 0 R  125 0 R  126 0 R  127 0 R  128 0 R  129 0 R  130 0 R  131 0 R  132 0 R  133 0 R  134 0 R  135 0 R  136 0 R  137 0 R  138 0 R  139 0 R  140 0 R  141 0 R  142 0 R  143 0 R  144 0 R  145 0 R  146 0 R  147 0 R  148 0 R  149 0 R ]
+endobj
+280 0 obj
+<</Filter[/FlateDecode]/Length 3700>>stream
+xœ­\_sÛ¸÷Œ¿fîÚæfÎ2ñ¤î–h›W‰TI*wò’ItiÚÄn´×~¤~Ë‚$ Ä.DkšÛ1ô[ »‹ı8ZPF¢E™/£ÿ¾ÿryqÓ^^\ßR’ô¿i½¼ 2îf,îõáòâ*Zğ”´¿]^¼jÿr Ùªª×äñİ—y÷ø|~úøDŞ=Èóáã§¯ßÏ‡äË»ç¿}%O¿Ÿı´½¼È[pºÔÎ&õl´ëffJ$yûŠE4¾øÛBÄxõ`>¢Æ4µÿº\ò«’Şƒú²«ê¬-ªrAHöù3yşôñ/ß¾ª­|=<ÿëğašñXvÓ¸³)‹a¶İ»B;0ŸˆX.hâî_2Zv³Óì.Êf_çk’•k²ÍŠMQŞ‘l½®ó¦9eäçË‹˜÷tD*ûïJ´¬ûş›3õß?_^4ê—z—|dbø~%‡ïÏ‡şÓş²™ÔëæÎº£E¬×½Î›U]ì:Æ’ê–T»|àrC®Éëü¾XmòîÇ]İ´J¾ÅãûÏÿüğéñ#Ù<½÷íÓÓ£+j³\&õzÅd½1°^FäQVÉğ)™p„ÇZ­ï‹†Üå:¯‰ú©hš½âz[‘üM›—¢¼V;¸ËIQ’ö>'Ùú)³mŞmwYù028»àÜ™]r­*jÖüÍ®¨;ñîªM±z ßı4ğtë„År<4ˆxŒŠ-
+ã¥FMGõwÊFÓ£û9D¤?ºÄW¶tçğÕIDƒ:ÅÑèH}rµd¾›°ÄLSâšxÄå±GA›çÂÏŒ»ÉÈÚ:OúiÍù”ŞZ)*sŠ*
+å7J‚‚]çSåœş(Ò©9¹?©:#K6ÌÚìoHpfùÂİí¸P&¡×‡AÅ‡İrZ†Œ´ù¶óõésV®rµ°²­³Uû#QËü9_µéèì„Xƒákî«_”1,É®³#¬3‹=íÛªŞ.`©Cz½9b±f`ê£ÌPì¡ø’czm‡|”ĞA4—
+ |…É	CÁÕÏ* ©¤¾jöF´w4!—+h¢4,í¿ôi¬³6¢ãeÜiŒn‹­‡v=H¢tØ'M-ïhwpÊ~Š(É¶aB3øHâ¸€²r7?1 ,cŸS\1bå‹˜zîÆÆñ90À	– Âí•úçsdw_•A‰ZôQ HŞ¾Ê®W?’òéG’ÿûÛÛ<Úq€M'Q £0Nİõ	NI`Õmö&È(qÊxiË)IØ~§Š¯€£•	•,ìp•.W§ım˜ÃX5Ã†Z”,§'6‡xÑKìsÅ5 <I“Nh°ÙÅ&Ö7\®4¸¤t°œ”Ï³œ£è©G¥ú”Õæ¿q{«œvñ:ŸZNÍIÀañ„k@Q\°Uv;€ŠQCb— Ì ùãÎ¡¦öP¯öM[m»àgıÓ#Ê!»<j=İu?#P:¦³aĞäÂWTŒÒ™\^È!.<~a¢5úUvµ“ëâËGJÖO—:r„Òxk–,c9`b«sW|Á¤“Û÷áã^ƒ.ú´5æ\ºékrÔ~•Co·×ëõõƒúçæÎ†‚F%Ö{ÖêqÅüŒÉaˆÓ´ë÷µŞ`|EœPÃÌ’‘`rÌ‘^xSe%””•ƒÀ&MOØB1èíÒIÌ™ÕÛMÕ4*^Èƒ1‹Æ1qÉÖCmˆ®æƒ;êÑ:£mU·wê,MÍ”Ù«Â³X¸#®áàÁp!.b£€¿Ò+€D¤‡€ØS/ ™! ¤×°<´I£‘oÓõ¼®ØC~ïWß <_[~4¨b!Œ>ìÛûª.şœ¯Iï­¼l³‰ïÃÖ¯¸b)ºw=‚–	 Œù‰%5YK
+à Ş
+0n0å5€­NšN©ÄIlŠmÑN‹¢‚-õ¬¾Æš!<%Pv@IŠ¢Ìâ²CÙ¡ş[HÊºŸEUk²mµ/Û o‰¢¯^¹)cyW•2[äwáÀN98™"+Xçë½
+®n6áğm´Šcna°×}Á$xşº"ët?tÁ¨3vyW|±îKöBÂ×'Ô·¦T{]æ›S#`v´§ñDc˜oæŠ©ã„  À\f[ Ê`.3˜@ÁûÜ gúsĞYÿ>èAty6”GçCéùPv>”ŸçCå‹¡\
+O8N¿o_š†×¶j•“l<ÃsÅ¥LF"mW¥Ña×Ïûú¡k6Í#çˆĞ±ƒÛ|]¬5n•Ëö,HÊi×ÎĞİ1ÛöZg[eÓfQI8Ö¶ì¦Z›³Á·¯v‡gòîıûOßüN)Hw$~¾ÄéşığüuÜ”P•c‰,m‹C¥:JºMQŞmrÒûìiÊmŒ‡_1†Šû‹Â›cÜ€,ÊO'-ÊÏA-Šá(†£ğš>÷kúåÇuáÆoÈîˆ%ãõäŒ$6‘Á nOb[2+ğwD%Æ<ƒñyG%&&ƒñ¥DÇR0hMP=ƒAcoœ×|^e“K'Çà¶ [ìê€e7Å¦hƒÍi½#×t—¶UYù@TÊRÍ¡àØ(Ú•êzÕ/İ‰ïH4¤*7³–ÂFŞÁdNÍê^…’Cm!:Ú“¹Är_Ô/^RäîÍÄ’eU^áû?î
+DkF=Ğ.J .d~«ØÚ ¥àÇ ^4	¨â¨üAu„›Œœ/5sñ#Än*¨OŒZ'œm6 ™ñN€LJ·–™_µ¢ËC1mR ”!pmÆ\ j‰¢ì2€Â¾B®oı (;„»Qˆ÷ñÌà¡E¨ıñØot`mmÕîUèµÊš{ò:ÛìÃ!“¡h¥º¡ß´YÛX0/	°Mò=·@Çß4‹‚X“Ô­ºT	ªé	†IÍDÔ·|4@¯/ÁtÈLãÅèDøNÜ&0—î¶>Œ¦/º»húĞÿt¸¾LYWßg`‰j.ıš¨n«j³)š¢*½&Db”˜ÛYµ÷yMÚû¬$ŠÒÆ†lªQ“È·áG0eëd@`6)†Au2e‹|ş\¶˜@áV@MïîËT(¼V¡&İ}V8)^BuM€ó‘®×3Ìàê° ™£í6€1#>F'œ ÆŒ w"cFĞÄ@ ‰ ÅÃ›€Î™hÂÒyšğg·ÍâĞTçEš0Õ¬Yb(	°8\¬ór*áäTGlj6!ókW=
+<bíNVÙ¾É›®ôÜµg˜q–æn2åŒBèxB×UôB4’x³ËW°ã LQÀ0ãEv
+™e`™¶2=ÎZuÀXçm]‘¾-~[ÕdµÉŠmC¶pÔwGSÇÂñ¶“¡M€\ÄÔØPïÆs 0(¼YË¥{¼rÄ^²Ù^¥x•Jà1¨ˆùœ·+<uÿÉœS:j™d#ÏV÷¤Z­öuÚCJ‘Lİç+æD/’ÅS3]šg±­:wOÈÛWÙãÈÓãáeuØtÔLKãIe¼kg¿ÖeŞYô’ÇLè./óZ‘Ëîîêü¸‰Ò7úL¹@ÙÙ®]Ø«şaÅuµëÈÎÉÓ\q-Ö¬N†ˆÎ†NÄö"hz>49
+6i§é,9OcàÙÇ,ŠRçniÏ¨ÃÕåá»:ßWÍ1e7¨,Å1ëe
+àDdÄ…(>H@o‰aô€1Q^ÃFûÊ€é·l êL™‰pPdJ0vOØ3ÛTb œs¸„¦¯· 0¨ˆÆ	!©`Ö¶qëYŒœW–çiº¢öYŠ²Û¼^ŠÚ‹¨
+ßj9ï¬œ8iNŒÛ¾ŞuÂA"à´CA–YN‚Ä@`Æü;ã¶j´ŠüÚ¹WÇC`.[†éLêzPÉ/0—‚÷¨gEE½üQ/xÁó‚”-§ïîI'ÔËV«b‡kÁöŞÂø¢EìUÖº>Pß
+×é¹qÏJ{Ep ¢‚ <8V	¼çÍğ7Ã{Şïy3¼çÍü,ÏTaÑr¤è6‘-£é$ 2á´Ğ°ÊSš÷°’	.¬Ü…5êwYÅí%][W!ƒ][¤`;-ò¢mtÀÈL£¢5Ã(/ŞŒ„PÉSàí8pç1î/äÓØñôÇàö—ªşc^ÿ¡és˜¼lN¾IŒ%íÀT¦V1SWBÁ¹ïÈúçT:±áx‡=ßî6ÕC¿@±FÍB€…vÈ·Pv·?¿ßCñÅoeR¼rBñÊ	°¯©‚nR¨Iğ2k÷Ş¿kCîçeÊtr%VŸñ|±Y{0*ÇÏ«…Cl­±¬É¯£õfŞ
+Ço¶=›ÕÙ`rëè©L5 •çCÁGïX»:2¸³C¸¥xˆâ.›ò
+i^½ÍÃ—2,ÿÚìÍL8ïtäM[lû|[µİË®"°?6²:ÿŞ+¼—yĞS4fF<A½-ÅS
+ 45·%Æ§ºFĞLh0C9Tv•Îx2¨<®}ĞyÅ-çO'\Ï¢ûÈ|šŠ—<K:4ı?u"˜_}˜Fá˜É‹´ğ:?€²z†? V8Âi²wf> ç? ç?`/`MŞD)ÌáÈ7·Wæª»Òå»ø$nãE…ww;sÚc!â-†·x(ŞN¢h¡˜J@Ç@bZŠÄçïÏæ"çú;úµ7«¼ƒn4›£ãgæ:ï~{Sç›MÖ?}šCf¢uÜ+S ‘„oêpöã·\Ç ÉkBóúÍ¾&4•=üïyé7·©óæ–Ú¾›¼{Pİe<úo6z}fu0?†ÿÆÕÿ ®œû
+endstream
+endobj
+281 0 obj
+<</BaseFont/Arial,Bold/Encoding/WinAnsiEncoding/FirstChar 0/FontDescriptor<</Ascent 905.27/CapHeight 715.82/Descent -211.91/Flags 32/FontBBox[ -45.9 -175.78 1000 938.48]/FontName/Arial,Bold/ItalicAngle 0/StemV 0/Type/FontDescriptor>>/LastChar 255/Subtype/Type1/Type/Font/Widths[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 277.83 333.01 474.12 556.15 556.15 889.16 722.17 237.79 333.01 333.01 389.16 583.98 277.83 333.01 277.83 277.83 556.15 556.15 556.15 556.15 556.15 556.15 556.15 556.15 556.15 556.15 333.01 333.01 583.98 583.98 583.98 610.84 975.1 722.17 722.17 722.17 722.17 666.99 610.84 777.83 722.17 277.83 556.15 722.17 610.84 833.01 722.17 777.83 666.99 777.83 722.17 666.99 610.84 722.17 666.99 943.85 666.99 666.99 610.84 333.01 277.83 333.01 583.98 556.15 333.01 556.15 610.84 556.15 610.84 556.15 333.01 610.84 610.84 277.83 277.83 556.15 277.83 889.16 610.84 610.84 610.84 610.84 389.16 556.15 333.01 610.84 556.15 777.83 556.15 556.15 500 389.16 279.79 389.16 583.98 0 556.15 0 277.83 556.15 500 1000 556.15 556.15 333.01 1000 666.99 333.01 1000 0 610.84 0 0 277.83 277.83 500 500 350.1 556.15 1000 333.01 1000 556.15 333.01 943.85 0 500 666.99 277.83 333.01 556.15 556.15 556.15 556.15 279.79 556.15 333.01 736.82 370.12 556.15 583.98 333.01 736.82 552.25 399.9 548.83 333.01 333.01 333.01 576.17 556.15 333.01 333.01 333.01 365.23 556.15 833.98 833.98 833.98 610.84 722.17 722.17 722.17 722.17 722.17 722.17 1000 722.17 666.99 666.99 666.99 666.99 277.83 277.83 277.83 277.83 722.17 722.17 777.83 777.83 777.83 777.83 777.83 583.98 777.83 722.17 722.17 722.17 722.17 666.99 666.99 610.84 556.15 556.15 556.15 556.15 556.15 556.15 889.16 556.15 556.15 556.15 556.15 556.15 277.83 277.83 277.83 277.83 610.84 610.84 610.84 610.84 610.84 610.84 610.84 548.83 610.84 610.84 610.84 610.84 610.84 556.15 610.84 556.15]>>
+endobj
+282 0 obj
+<</BitsPerComponent 8/ColorSpace/DeviceGray/Filter[/FlateDecode]/Height 122/Length 4626/Subtype/Image/Type/XObject/Width 285>>stream
+xœí]{\Lé?]U£+åRH*]F+—BÉ-Š²Y»‰Q¬²?¬{Xë²vå³î,-k±.‰!aÑÙhY¶T’İè2İk~gÎ™™÷™™sfN™f
+ß?Vûç½=ó¾ÏûÜŞs¸ÜøˆµUœŠÅåœª:e§5 ®$ëŞ¥#;¾û:Èw¬ûp‡>}ú¸ç¼lëÑëéo•=>%¡áÕİÃçw¶é¬ƒÑ@ßjPÀº³9Ê©BÑ˜›úû²ÉıMh™"u£«K”=f… âŸÓ“í™±AÕuÓ#e¼eÑX’´'x`WÍ&2†Ó deO ÅŸ¸# ·ZóøÂ‡Vpª²gÑÈü9¸¿î;1†„ÙÎ÷ì„/LüŞÍXŒ!ñùKeÏG~H?2§ÜCÀá_eÏI.hÌÚãg¡*c®*êj$ÔUr‡ı²'öîÈ8üÍfRa™ôrpñ˜·zcÔşè„x—Eí\³0Ğs]ç|ß|eÏíİwd’¹ä¬T­GO]¸5æÊ½gô:]Ãë	GW:KS~Õ
+œŠœñæBH/±3[ÛØÁwéîËéùÌÚh(É<»Â³³:5w¢Zv-‡Äˆ~"igë>w[\VysÚÊ9âHÅ«<yZx½Û]L¢£ËWŸ¿Ó&xõG¾$w¶ÈkÀ
+CÙÍğÂá·ïå“Q)‡fÓÖXˆ3§oV òöÖŒİÂwÃ¥l9¶¹ÊT”9j7äØzK£>e¾%Ü†£Ö'¼`(v™#c–¨lŞ$ïZeqşÚÄ5ÙAûä¹b Nõ„Ì	j¡^äÂ½Ãˆı¤ã¶êâóìç±`{›:éæ¼Ávöú)•ÓÂ]UMCÌü¦…;“’æá#í0a—B¬AÎd!sú¼PD‡ï‚Û³qåwø–TE9YŞ¸	˜Óïµ‚ºlª/OÅ0×ué~ÊèÆgÎĞ
+öÚdœaÖá—=ÆÃ|æ|*weAn¨‰wÁ4<N¾R|ÏuãHæÌQ|×ëÙ-}¢œ¾Ï‘±‹]Êé]&.Òó<¦4³¸| 77¥ÑD²Y,–wDŠ¢%ÀÍ±Ö·”ˆà1ÇºŒ †ÇŞYŠ—{o¦cDº";”D9ÁôÏ#q¦°Ãb®Fâ˜Æ(l\™ë'nUºòõ‚§v¥}ÌãM$©>gñØsU1£Ê?¹öX©bº’†·66€Ö}_-)‘$¢ŞDáÿ§ˆÕp?úF³\òF%®%¯£}êÍbÅp"Ç4_Ga
+SM¨HT»c]Ó=La±¹8sØøÂaóãÊb)T(+œ¡XíC|¥¤ğ˜ãÿı†÷O.76¥ãm/Mú§7‹Í0'ŠøG1ûªµ W~áàÌá±E¨çDJ>œ1–+ai~¤»~PÌùz±”‡,S.¹­Iaó†X>
+JçJyÉ;É	æd±ˆs
+<m6vÜtäHµ&q–¸òrï¿oLY¦mÀÛ,/4JÆ;æà|aE¹¶ìIŞPVX\\T\Û„o‹Š‹‹92¦Ñ2ÈÂY29æ*oy¥\2%#äoŠ<ppëF±¥úÒÌóûÖÍñ3¢¿½ƒC×‘Ÿ…m8x£€>) ¡ìÙ¥ıkç~î>Â‘íààÀ4Âkê’]g2ië†‡§>ÇıœââRªøzİƒ¿%ˆÈ+yË©R¦àaGñ¶RJ$77U.ßu¿AaCÆ¹môÄƒ÷8T»Œ\›E±Š²ã7ûÛPÔÀôÙsüGÑÉ-#um>´ptìjÖÛuÆ–Dq‡QŒ†65´´MºZò8œ\Äç+ïwõ&¼:yór¸£¥¦>4ÜßìÓLNÓ°SOS#¨¶üK¬Jæn_{”x­®oÜ£GÇöA½‚â%úYOÅI!G?=/J&š„‰óü+¤×=Ràíòfê¯(.h…%%Ó9{È¯Ñ³™ºùÔ_Ÿå=¾¶?ÌQ›_ì^k¼>îÛAP¡Å§k\˜YXû“¯¹¶˜_³nzØmÅŠeËfù»vSm7ş„ENèIWïÑ$<†Ø™Šdé¸EWô)Q¸áy•ñ1•;
+µA›¡pä×`¿½.r‡D,shåf¯e£QÏ‹-iîÙÖ^`àëDÄÕ£ÎèÑR²¨>s3(ÄÂÁîM )”Ûğ‹ ·¶<ÿnôªÑ"éãhvz uƒc05Í‹°.ˆÆí„dH±ñJüÉATP´ÁRX¡Ój
+É’5	t\ìEå*hQÕBÅZwõjTl$~?¤<)¦óZ\‘ÍQ”ùBîjß£ ©)V{¨î¼ñØda4­1¥_«L¢–WNıÎFb¶È¹ëòŸ…ÅUƒPé˜*®¢ajS&^)‡? µ’$ÀóI´ş¡¢£ÂàÜ`´ßõvÑ ß|Úİ+,ÎéˆJ¿FÔÕ@a¿
+‹SÀÎ¡<kïÀı8´IÙU¢¼Á†Kè×mÑSµL"/)}Q®çèé‘i!”I¿¢BU (ÃĞ}(,ş•ê‰•$¶Áô÷£†/@±´Õ: ÚwÄHbAF´æN&&tG5¯I!Ì³ÃşEP
+Ö©-ˆ^œôîŸê‘¨t Å®Âñ
+póa2~ÓADïöƒê?ˆ’\ 
+Ÿ*#[ä
+ØØi”ŸÊi|“âE7T6#%ü®ßP÷ef_Äd
+<pˆ
+Ë¹™ Wy{*Ë™4šsïI§]HİøªÇ!°À®ŠCª£ú>T¼«%Ñô²ôÒ…i˜C®›Ü
+ éh> $…0IÜ…IŒ¡ æ¨;K'^hmI»®¬3¤=Bš¹öVÔ@%ÈdSï*.7ôb|›ÁpÔMğFTa‡Ş±ÿr=Fí~j¨Ÿ‘A<ÛÌÉrÈ_Hx¥b;@ë!ÍQ¯ é¤nŞiL&Á-'S§©—ÉâŒ~0{QÚË] ªacex&jİñP2R‹ä®Ú	>Ùİ,A™ıj¡±Õ×ú“¦—‚ —~ŒÎòÚäCjYœ¨¾î5MİdĞ¬>£İ
+’:1•8ÄiÀ"ÁüHu¬UÓû¯rŸŞŠ^ç%bÆ¾â™Ì`Qô- è‡dxE+ˆÉ$ªCÈ	¢¸Ph-=Ô¥ŒÁ(¿È’QPöbë‰¢r°«4Ì»›™´'ïèÚ?-®då õw]/ßƒNé9ä/ì/ÔÎ¯€
+Bñ«`³¿Ò4E?]ú¨5‰Z/@¬KÚ-"[HZÕƒ(Íè¨;:ùVï‘ödp’×}Iú¡”ÆrpùD#?øá Y#F©7sA}©V85 µé°[ŠJÌ»Q`Û÷ <œ€¿ğÙSàòFå°lh‚oÑ@uÀ$7´r,¨ñ‰Ÿ‰ ¿‘€&i0—Ù7»	t y/¬Ñó º!¹FØÒB7$øz±Ús§	Œ[ÌdD2ômzÒiå£A	2ˆÀm3Ÿ,»NÍ-Ü
+@1Bòœ9ŒÎ4½ìËS3ZæjšEMR=¿r/&wêD˜3I:í3hXæË‚5¨Hõ	¾ñàA#)Â ‡Æ4k"Ş§‘½©82yƒ+†e6t…gr±®ÊÔğ—JÊÒØ’ï¥ªŠÊ†ñÌ ‚0ƒKbM” ‹Ò¿^¼•PœNMÀ_7¾±'‹à"ôS$œ up»vbô¨Q{J#l„¢ÛJàƒºVÊF^A)Ù‰9 /g»){©ÿ
+Ì–)5«¦„^’	|P×&Õ·- il¬¦‰ñ‚W¼ô”rõ¬ZÎBïÌT¨GuÑĞ<Cô§Ÿ‡˜Rº‡«B…ê™ƒçë~ı(vh-Ô²Éó*ß92qØWƒ@ŞùS·ö(	Õ•ò›ÚÏ ¥ÚØH)P`(¯;d'ggÙií3	Ê¾”Ö4^­È•â\)W¬¨$PÃš.õ6É—ô#T¾„_vÏAÚ¾Wş¾]²“ÊıH«~*ûÎW%¹Ñ{P[IÑ`Ø²l?”Í£K¦M›/<ËöµCÆP&ú?_ƒ6°î0Øªª_‚­†aıôw=‰Ë…ÇÁÁétH¦(æ6†¤†’!Fi0È+0ÁOBcÉãEµüÃSL°ÍhYïÍ–´”ó~D2VÍ[ä–3tÙÙµš2¸İ±/…Ôeà¸S©Ş&,‘>‡…ÒùÂC5É›vÇi—ÅÙ~¢Ç`õjùüşÈüªÜÛ;&™âöM(lçÆ0Paê•<ô«Udš…ÔÓé‰yƒâ+T'ò/¡ì¸]9Ù2Ó“ãö¯ñ1G«·ËÇ™dHD7­¸º42yv"Ø)XÏ9ë‰‹;{pãWã{“Ş›~¢Iã•¿ #@•q &îÂÙC›æz  p{m[á0¨Æ52ÇHXûöèB¢“Èû­zúo{(Ş	%JI16‡~ûAS›Š6JÍí%¶¢oaÓÔÑAc¹ÜoéuŒ¯1´Ï5tXÀ	¦n:~wŠ¤ÒÑ0‘XÂ×àü#O˜#©íTÃ —Tµ-=ÖœÏ-jÔ¯íŞÏeH_ËÉR|,q»ÛÙ:uêdkgÖ_äıWµ‰[üœº‰¿ØGÇÌqì’ßQúûr£¹ÛŠ½[Iİ°·ÛÔŸâ©e@¡¹…]Ÿ!..ìlLD	;;w³³í;ÔÅÅÅÁÖV5ñ³åsr¡ÀÁc}¾\¾ûó¥0'-­¸¼,?]Ú¬H~˜“]R^V^’óà„¡Y’â§•á!¡8BB­Şy*şÔ{¸uÏnşñË†Å¡d°å»™Io…TŞ}’ó²¬¬¬èyÖÑvkï¥ædç—ãÏ^fgßJ%˜SSò¶Œ¥¥­÷‚ç{šÜ¬§ÅéJIfl(uY6Ñ‡ŠhÛ6ùÊ+… ÑÉ­M¼_E)ˆWùì£È¡ÃtlRë`NMA«;4ÿë„Mlƒª¸÷LÙcÀ.sSşèŠ3?Rä«*>fN•o¯Häí
+ùş©’Ç@…§qƒ[VjDËâß¥.ó™¹“<Ë™.H¸ñ¥Õ”Öú
+DÂ+Û[Y/u*8Ü¿›ÏßJê\6ÆN—¦¤êÊwVX¶ó¿®”®¡Ú™`N?Å€£ø §ÊºlĞV—üØó2Ù¤òDÑÅy0ƒYJ~õ,¼à§³êÒ¿Fî¨¿½b†uZ|_q]6/I!]ôñNÊZ³^ß^F’#L„¶WÀ‡mÊÿüÖ•’¶[ù:9€+>Ö½›‹Š„•.¼“¦ÏéVñV" 7PLµX/µÏO…Ûa,³éwšp']ÉXCL¡-"^Æ¯ŸÀOÙM(Zœùj‰å^9_‚ópG€5?^k×Æ¾ˆWd% yJn(L>0·¿ }TÅqEübÎ2±x/6dÇ³wo5÷Ò–€(m·ã´?ä„´>¤›ˆsë>ãæ5ª,÷ÆŞğæ ‰Å`øö§­Á×ØDH0‡EğÁûMş‚EÑ£óÛç4ıè@¿oşb˜øĞQîNÅëìyıy%ç{]É³¤Ãß†Œa›iˆ6¡j¹àrës~6	é]©¹ƒCÃĞÉoñö˜[ÿdæ•TÔÖÕXSË)}“–štş·ïLÕ[—â‹ŠšvÁ1ïÁ×6/IŠQ°:Z:ºùÌgJèlB§øLğéÌîÑ¡=íçyO¾vwÓ’nÍ‚Áà•·d\ƒmKx<^^ŒQ±ğùñ^[=›hP¶¶ƒì‰Ë„ş°E1OŞ3Îøwåk¤£ÛEÑOÛğÇídàÚLŠo1‚¹ÇÂCJz{¿âğpİ@-Ù¬€Ğ4øcBV«ş^‡ÜP{û»q–íd3Ã´ÌØcÃ·_NÏ>Ş+ui6ÍlLóUH\14èå´r×ÅÏ?Ôœ§ÒÜä[–‡úqv²¶Âaé0ÄÙËoö7>•”]PŞ:zZ*9<´aãñ#š„ÿÓ…M
+endstream
+endobj
+283 0 obj
+[ 154 0 R ]
+endobj
+284 0 obj
+<</Filter[/FlateDecode]/Length 2332>>stream
+xœ¥YMoÛH½ğhsp …á7©ääÈÉÂÄÄŞàK‹lI=C±¹MÒí¯ßªş ›1ÇáîXT³ûUÕ«WU-ßBâ{¾oÿ›|,—Ÿ//Ş	I–xyDw—Á:N½Ä'Qœ‡¸ê±¼¼xç{IFO—W›m:&IGŞUŒ„	ù™Jº—´9ÀÓ`ı–<ş~yñùqnóÈW'çIf·ö½<Ö;âuÉdK¨d„ív¬èø3#;!I-ÈQÀÓî@kRóšugòtµöŸŞ’’[k²UoögÇê–‹šÀ{’ÕìD+²egQ—¤í‹Yûêr}UÂŠ÷\íÌÈIò^^ ?ËÇ3a¤ñÓ¦‘â;«ın`ã¢b§?³†ÊîÈêŸlDİöG@LÙ§¾«Ú–<0ùÌÖzß£Àg8Y¹o½N,ŒÀ‹Sâºi*^Ğ-D†×ä^²½XbRìGá’ Ğ›=lğ|·§{ÆĞ£÷ÛŠ«?w€û<|‡_	°QÂ™m'{eäÂW«ø¡õM/Ñª7ÉhÇë=¡¤â°‚O*îk˜„Ø¶ZU„k:BÛğ#$­Ÿzy¨á³g^²ºP‡°^Rü@m¤-gxÛö¬Ä°½hß„äÿêø,àğrVqLûj]T}ÉZµ¦EÈâØĞš«í>àÊ%àóÔ·à/Ë5øš™"-K‰Ü04Ú
+)Å‰ÉêÓ_­ª˜ÂG[R	xÚĞ3cÁtÀZHŞt*CôRmf9¬]‚<Ëâ‘‚6‘1¸ÊAHØÎu×‘!™;HHR`,*8öÄ»¯Õ*Ğ•ã`¦~£¯+´Ê5	Œua[ ş‚¡b,Ïã(Ís?ôBëxÑqÍ<Fã¬¨òXS1Ú‚MÀ§«À*¸#ÏÅ‹W>‚")ªs€â¤>4’ˆßo[P$ä™Şk‘¾«Ó¡Ñâ9fù h½Âƒ(/µ§šÎ~·ë1Û¢¯‡GtT‘F²#ï«ÁñãÊ1§
+ñÌ °º58&…%õpåé¤€ıÙ 8ƒ×ƒğƒê=Òv „JÀÂúB»U­Ô1*iÇpQ§2Xkòîëšê§
+T…şÈè$Õ?*zÇ%	’‘kk”ÿİR÷ƒº ²1	3ß=4š3â4NÔKlˆóÑ†ÀK×z·_¢°(~}Úªô/™Ã†‘8¢†ºÂ«JÅK@ª€/®~
+V¾ïã?°|XiaP†¥«9¯ íY¹Ä‚l¬àÀ8d'Å‘¼¹`ê¨¼AŞlĞäNtìÍNGA:ø(ò2S>ëÔÇ¸^÷°ëí‹|YaÀGÁ™ˆbC=‘‰¡`ÙÆ¥t²ìM
+L$t	z?KÇäAábeKRßtY_ E;†È®%†xõ­®ú$qUQ›·r‘ºv4-Lõµ2ˆçÔªŸX >\¯]¶¯ï‡­l±LêÚüRæ4*ÉxÚ=¯¡åêØ‚‹OØwÀùùb{kÙéÀ¡×4™ĞáÆÈ'@z|Ç£N˜Pğêêß×J·K
+B¯İhÉÙ–”ªøúòS¢ŞĞÒştõ	Î£+®4Â3ìYÏXZ¨JXPœøÑÖ Ô¤;-ºH[Ò#XrÌ `ü`ˆ§şá#&¬½üŞŠµ*5¯ÃL£D^Š×Ó¯ªË‹‡Q7ÓÔK3­›i˜éuA>lUâúŸï6¿‘Í¿ï¿~şFno>,şµK ,±ı4øw£i¨œ¨ÓáøëéªEÕsÙv¼é+UÈ€qò'Ğ¹mT×#Ø ªÂÑÓÛß¡œØèaGÕ®€uÉQZõøùÚUÌÔ¨âGŞQ½‘²OWPµ‘>5)z)±Ô°“Ğfyâ%™[lÂÌñ›ÓCıc¥•£³nĞ[[o™w™ğµmÿîWÙ°`ë€<Wùè
+òôéXh Tš¨Ÿ¸Jİ±ÒcÜ~lĞÀ“ówH­¥àl8d©‚}´'æú¸%ğ“q‰çb=BTÎ™ÓnÜN]¡èÌ­]MÌ„…¨0]¥»¨îrÃšé?—ÀÇio,l™7¨-å2¥dÚßzd%ß ×ZtëÿÇİ0šŞ˜¤ãmbò"ÔĞÚ¢íª•5£*?k»ï¦³4¯y„W6a2i^ó¹¾ï+&¾§KØº¹)µ´öØ’€'dkï/°ì£Ü0w£U¥:ô¡ÍU:6;¶(b´E½ãĞÖ±Šïù–WjÆmXÓ«Ø-›ˆB'ßƒøÂºhĞ±óÌ©Fél+ı•ÊsµLWãt¨0¹¥/Õ³`2ˆº:Ïßyıjg.ÕwÑ0‚s'#Ş°ıŠœEÃÕp÷…DƒF`pÍ¢ÛŠp¦2Œ[ÁdÇwàˆ2”…3K>Å !Íu
+¸í½“Ir>ßÜàkh€ï©K÷xvVCêıÂåş¼m1HKt0v®>ƒ±@‡ƒ×ÚÆØ­™âÌıQ‡aİá€/Ÿ:®.U@Â S\û§éª,€Ù¼3”ğŸMW.ã}E;õÇÍÕ)YşVÚ®Ğ`öL«¿PR~ õxuò¿°*æº¾e‰èÌrÉsdØˆJHZŠ×‡èP_O/ü¹ı¾Àv¼|1C$ôÍ¬Ú/_cúëè¥›û»›ÛÇÛû»‡×mÌ„x9˜æÅhC+ºQóX¯i·ãá_\wÜ°Š¨|Å¹+é s½6óp¤™sšA‚»Ei¢ê™…ÛºŸ±„H²ğµMm¡»G0øızsÿíX™úAúŞŞ¾î/½0øq¾Šº£‹nVàhçÒ=3õõÎ*‹¹ƒ†²Œ—ögŒ¹T3ò{úN¡ô
+úr‚Ü×÷ñØë}ì/!*×ñ‚{šë«%³Ú:tÇ[iÕ±/P`Zæ¢Äª¦¦ğƒ P»n'°Q™ôµ0 ÔjºgiÓ4©_vJœ…Ì;¬œÿaÇôÁKàç±?ßÌÃ:“VL:r”›I30ƒf˜˜3½ÿ»ÄL ’©Ñó¿úÜÎË
+endstream
+endobj
+285 0 obj
+<</BaseFont/Helvetica/Encoding/WinAnsiEncoding/Subtype/Type1/Type/Font>>
+endobj
+286 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 287 0 R >>>>stream
+xœ    
+endstream
+endobj
+287 0 obj
+<</Helvetica_00 285 0 R >>
+endobj
+288 0 obj
+<</BBox[ 0 0 0 0]/Filter/FlateDecode/FormType 1/Length 71/Matrix[ 1 0 0 1 0 0]/Resources<</Font 287 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+äÒ©Ppòuæ*är
+á2PHçÒptörQ0007U0204Ó50VpL.ÊOË/ÊÕTÉârá
+ärõuæ ÓÊç
+endstream
+endobj
+289 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 290 0 R >>>>stream
+xœ    
+endstream
+endobj
+290 0 obj
+<</F2 2 0 R >>
+endobj
+291 0 obj
+<</BBox[ 0 0 79 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 290 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+292 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 293 0 R >>>>stream
+xœ    
+endstream
+endobj
+293 0 obj
+<</F2 2 0 R >>
+endobj
+294 0 obj
+<</BBox[ 0 0 280 12]/Filter/FlateDecode/FormType 1/Length 86/Matrix[ 1 0 0 1 0 0]/Resources<</Font 293 0 R >>/Subtype/Form/Type/XObject>>stream
+xœÁ±@0Ğı~ÅY¨"±ROÒ¡h½ø!±uóùÎÉˆ¨õã2&…áƒ†memgŒé©êÅr Ş(ö$ÁKóé-ô«+©/D!Ááæhr
+endstream
+endobj
+295 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 296 0 R >>>>stream
+xœ    
+endstream
+endobj
+296 0 obj
+<</F2 2 0 R >>
+endobj
+297 0 obj
+<</BBox[ 0 0 280 12]/Filter/FlateDecode/FormType 1/Length 77/Matrix[ 1 0 0 1 0 0]/Resources<</Font 296 0 R >>/Subtype/Form/Type/XObject>>stream
+xœÁ1@0ĞşŸâ—4²CLt[DÖ3ºtï½†‚à£%4D‡ğÁÈiPEd¡_»r£ßèVÖÓ,¬ŞÓ_dGA¶„-‹
+endstream
+endobj
+298 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 299 0 R >>>>stream
+xœ    
+endstream
+endobj
+299 0 obj
+<</F2 2 0 R >>
+endobj
+300 0 obj
+<</BBox[ 0 0 280 12]/Filter/FlateDecode/FormType 1/Length 75/Matrix[ 1 0 0 1 0 0]/Resources<</Font 299 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+äÒ©Ppòuæ*är
+á2PHç2T0Ö3221000UIáÒw3R°PIãÒõóQ0´ÔTÉârá
+ärõuæ ìÃ^
+endstream
+endobj
+301 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 302 0 R >>>>stream
+xœ    
+endstream
+endobj
+302 0 obj
+<</F2 2 0 R >>
+endobj
+303 0 obj
+<</BBox[ 0 0 216 12]/Filter/FlateDecode/FormType 1/Length 78/Matrix[ 1 0 0 1 0 0]/Resources<</Font 302 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+äÒ©Ppòuæ*är
+á2PHç2T0Ö3221000UIáÒw3R°PIãÒpöpõñvórÑTÉârá
+ärõuæ !7{
+endstream
+endobj
+304 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 305 0 R >>>>stream
+xœ    
+endstream
+endobj
+305 0 obj
+<</F2 2 0 R >>
+endobj
+306 0 obj
+<</BBox[ 0 0 18 12]/Filter/FlateDecode/FormType 1/Length 70/Matrix[ 1 0 0 1 0 0]/Resources<</Font 305 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+äÒ©Ppòuæ*är
+á2PHç2T0Ö3221000UIáÒw3R°PIãÒğuÔTÉârá
+ärõuæ ¤9"
+endstream
+endobj
+307 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 308 0 R >>>>stream
+xœ    
+endstream
+endobj
+308 0 obj
+<</F2 2 0 R >>
+endobj
+309 0 obj
+<</BBox[ 0 0 46 12]/Filter/FlateDecode/FormType 1/Length 73/Matrix[ 1 0 0 1 0 0]/Resources<</Font 308 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+äÒ©Ppòuæ*är
+á2PHç2T0Ö3221000UIáÒw3R°PIãÒ00´02ÑTÉârá
+ärõuæ Ér“
+endstream
+endobj
+310 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 311 0 R >>>>stream
+xœ    
+endstream
+endobj
+311 0 obj
+<</F2 2 0 R >>
+endobj
+312 0 obj
+<</BBox[ 0 0 111 12]/Filter/FlateDecode/FormType 1/Length 77/Matrix[ 1 0 0 1 0 0]/Resources<</Font 311 0 R >>/Subtype/Form/Type/XObject>>stream
+xœÁ1€ À~_±¥6r¡…@GArO0šØÑù|g&œ}Ì½`"„<Ã¦º‹ÈA»àš2Òn,éŒTõÒJ{Qµü+0Ş
+endstream
+endobj
+313 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 314 0 R >>>>stream
+xœ    
+endstream
+endobj
+314 0 obj
+<</F2 2 0 R >>
+endobj
+315 0 obj
+<</BBox[ 0 0 90 12]/Filter/FlateDecode/FormType 1/Length 78/Matrix[ 1 0 0 1 0 0]/Resources<</Font 314 0 R >>/Subtype/Form/Type/XObject>>stream
+xœÁ1€ À~_±¥6r€´ì(Hî	F;:ŸïÌÄ€Ñ¥WL…ğ¥ßœÛE$P/˜Ó1Qo,9&Fïis8Vê‹¦h½â,hî
+endstream
+endobj
+316 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 317 0 R >>>>stream
+xœ    
+endstream
+endobj
+317 0 obj
+<</F2 2 0 R >>
+endobj
+318 0 obj
+<</BBox[ 0 0 115 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 317 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+319 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 320 0 R >>>>stream
+xœ    
+endstream
+endobj
+320 0 obj
+<</F2 2 0 R >>
+endobj
+321 0 obj
+<</BBox[ 0 0 100 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 320 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+322 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 323 0 R >>>>stream
+xœ    
+endstream
+endobj
+323 0 obj
+<</F2 2 0 R >>
+endobj
+324 0 obj
+<</BBox[ 0 0 234 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 323 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+325 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 326 0 R >>>>stream
+xœ    
+endstream
+endobj
+326 0 obj
+<</F2 2 0 R >>
+endobj
+327 0 obj
+<</BBox[ 0 0 223 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 326 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+328 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 329 0 R >>>>stream
+xœ    
+endstream
+endobj
+329 0 obj
+<</F2 2 0 R >>
+endobj
+330 0 obj
+<</BBox[ 0 0 223 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 329 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+331 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 332 0 R >>>>stream
+xœ    
+endstream
+endobj
+332 0 obj
+<</F2 2 0 R >>
+endobj
+333 0 obj
+<</BBox[ 0 0 223 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 332 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+334 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 335 0 R >>>>stream
+xœ    
+endstream
+endobj
+335 0 obj
+<</F2 2 0 R >>
+endobj
+336 0 obj
+<</BBox[ 0 0 159 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 335 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+337 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 338 0 R >>>>stream
+xœ    
+endstream
+endobj
+338 0 obj
+<</F2 2 0 R >>
+endobj
+339 0 obj
+<</BBox[ 0 0 18 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 338 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+340 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 341 0 R >>>>stream
+xœ    
+endstream
+endobj
+341 0 obj
+<</F2 2 0 R >>
+endobj
+342 0 obj
+<</BBox[ 0 0 46 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 341 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+343 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 344 0 R >>>>stream
+xœ    
+endstream
+endobj
+344 0 obj
+<</F2 2 0 R >>
+endobj
+345 0 obj
+<</BBox[ 0 0 172 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 344 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+346 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 347 0 R >>>>stream
+xœ    
+endstream
+endobj
+347 0 obj
+<</F2 2 0 R >>
+endobj
+348 0 obj
+<</BBox[ 0 0 100 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 347 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+349 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 350 0 R >>>>stream
+xœ    
+endstream
+endobj
+350 0 obj
+<</F2 2 0 R >>
+endobj
+351 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 350 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+352 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 353 0 R >>>>stream
+xœ    
+endstream
+endobj
+353 0 obj
+<</F2 2 0 R >>
+endobj
+354 0 obj
+<</BBox[ 0 0 46 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 353 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+355 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 356 0 R >>>>stream
+xœ    
+endstream
+endobj
+356 0 obj
+<</F2 2 0 R >>
+endobj
+357 0 obj
+<</BBox[ 0 0 69 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 356 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+358 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 359 0 R >>>>stream
+xœ    
+endstream
+endobj
+359 0 obj
+<</F2 2 0 R >>
+endobj
+360 0 obj
+<</BBox[ 0 0 187 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 359 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+361 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 362 0 R >>>>stream
+xœ    
+endstream
+endobj
+362 0 obj
+<</F2 2 0 R >>
+endobj
+363 0 obj
+<</BBox[ 0 0 280 60]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 362 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+364 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 365 0 R >>>>stream
+xœ    
+endstream
+endobj
+365 0 obj
+<</F2 2 0 R >>
+endobj
+366 0 obj
+<</BBox[ 0 0 112 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 365 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+367 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 368 0 R >>>>stream
+xœ    
+endstream
+endobj
+368 0 obj
+<</F2 2 0 R >>
+endobj
+369 0 obj
+<</BBox[ 0 0 112 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 368 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+370 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 371 0 R >>>>stream
+xœ    
+endstream
+endobj
+371 0 obj
+<</F2 2 0 R >>
+endobj
+372 0 obj
+<</BBox[ 0 0 36 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 371 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+373 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 374 0 R >>>>stream
+xœ    
+endstream
+endobj
+374 0 obj
+<</F2 2 0 R >>
+endobj
+375 0 obj
+<</BBox[ 0 0 224 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 374 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+376 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 377 0 R >>>>stream
+xœ    
+endstream
+endobj
+377 0 obj
+<</F2 2 0 R >>
+endobj
+378 0 obj
+<</BBox[ 0 0 43 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 377 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+379 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 380 0 R >>>>stream
+xœ    
+endstream
+endobj
+380 0 obj
+<</F2 2 0 R >>
+endobj
+381 0 obj
+<</BBox[ 0 0 36 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 380 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+382 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 383 0 R >>>>stream
+xœ    
+endstream
+endobj
+383 0 obj
+<</F2 2 0 R >>
+endobj
+384 0 obj
+<</BBox[ 0 0 72 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 383 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+385 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 386 0 R >>>>stream
+xœ    
+endstream
+endobj
+386 0 obj
+<</F2 2 0 R >>
+endobj
+387 0 obj
+<</BBox[ 0 0 36 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 386 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+388 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 389 0 R >>>>stream
+xœ    
+endstream
+endobj
+389 0 obj
+<</F2 2 0 R >>
+endobj
+390 0 obj
+<</BBox[ 0 0 224 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 389 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+391 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 392 0 R >>>>stream
+xœ    
+endstream
+endobj
+392 0 obj
+<</F2 2 0 R >>
+endobj
+393 0 obj
+<</BBox[ 0 0 43 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 392 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+394 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 395 0 R >>>>stream
+xœ    
+endstream
+endobj
+395 0 obj
+<</F2 2 0 R >>
+endobj
+396 0 obj
+<</BBox[ 0 0 36 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 395 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+397 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 398 0 R >>>>stream
+xœ    
+endstream
+endobj
+398 0 obj
+<</F2 2 0 R >>
+endobj
+399 0 obj
+<</BBox[ 0 0 72 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 398 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+400 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 401 0 R >>>>stream
+xœ    
+endstream
+endobj
+401 0 obj
+<</F2 2 0 R >>
+endobj
+402 0 obj
+<</BBox[ 0 0 36 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 401 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+403 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 404 0 R >>>>stream
+xœ    
+endstream
+endobj
+404 0 obj
+<</F2 2 0 R >>
+endobj
+405 0 obj
+<</BBox[ 0 0 224 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 404 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+406 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 407 0 R >>>>stream
+xœ    
+endstream
+endobj
+407 0 obj
+<</F2 2 0 R >>
+endobj
+408 0 obj
+<</BBox[ 0 0 43 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 407 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+409 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 410 0 R >>>>stream
+xœ    
+endstream
+endobj
+410 0 obj
+<</F2 2 0 R >>
+endobj
+411 0 obj
+<</BBox[ 0 0 36 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 410 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+412 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 413 0 R >>>>stream
+xœ    
+endstream
+endobj
+413 0 obj
+<</F2 2 0 R >>
+endobj
+414 0 obj
+<</BBox[ 0 0 72 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 413 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+415 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 416 0 R >>>>stream
+xœ    
+endstream
+endobj
+416 0 obj
+<</F2 2 0 R >>
+endobj
+417 0 obj
+<</BBox[ 0 0 36 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 416 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+418 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 419 0 R >>>>stream
+xœ    
+endstream
+endobj
+419 0 obj
+<</F2 2 0 R >>
+endobj
+420 0 obj
+<</BBox[ 0 0 224 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 419 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+421 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 422 0 R >>>>stream
+xœ    
+endstream
+endobj
+422 0 obj
+<</F2 2 0 R >>
+endobj
+423 0 obj
+<</BBox[ 0 0 43 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 422 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+424 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 425 0 R >>>>stream
+xœ    
+endstream
+endobj
+425 0 obj
+<</F2 2 0 R >>
+endobj
+426 0 obj
+<</BBox[ 0 0 36 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 425 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+427 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 428 0 R >>>>stream
+xœ    
+endstream
+endobj
+428 0 obj
+<</F2 2 0 R >>
+endobj
+429 0 obj
+<</BBox[ 0 0 72 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 428 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+430 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 431 0 R >>>>stream
+xœ    
+endstream
+endobj
+431 0 obj
+<</F2 2 0 R >>
+endobj
+432 0 obj
+<</BBox[ 0 0 112 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 431 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+433 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 434 0 R >>>>stream
+xœ    
+endstream
+endobj
+434 0 obj
+<</F2 2 0 R >>
+endobj
+435 0 obj
+<</BBox[ 0 0 112 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 434 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+436 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 437 0 R >>>>stream
+xœ    
+endstream
+endobj
+437 0 obj
+<</F2 2 0 R >>
+endobj
+438 0 obj
+<</BBox[ 0 0 112 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 437 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+439 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 440 0 R >>>>stream
+xœ    
+endstream
+endobj
+440 0 obj
+<</F2 2 0 R >>
+endobj
+441 0 obj
+<</BBox[ 0 0 263 57]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 440 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+442 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 443 0 R >>>>stream
+xœ    
+endstream
+endobj
+443 0 obj
+<</F2 2 0 R >>
+endobj
+444 0 obj
+<</BBox[ 0 0 159 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 443 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+445 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 446 0 R >>>>stream
+xœ    
+endstream
+endobj
+446 0 obj
+<</F2 2 0 R >>
+endobj
+447 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 446 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+448 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 449 0 R >>>>stream
+xœ    
+endstream
+endobj
+449 0 obj
+<</F2 2 0 R >>
+endobj
+450 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 449 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+451 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 452 0 R >>>>stream
+xœ    
+endstream
+endobj
+452 0 obj
+<</F2 2 0 R >>
+endobj
+453 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 452 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+454 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 455 0 R >>>>stream
+xœ    
+endstream
+endobj
+455 0 obj
+<</F2 2 0 R >>
+endobj
+456 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 455 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+457 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 458 0 R >>>>stream
+xœ    
+endstream
+endobj
+458 0 obj
+<</F2 2 0 R >>
+endobj
+459 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 458 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+460 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 461 0 R >>>>stream
+xœ    
+endstream
+endobj
+461 0 obj
+<</F2 2 0 R >>
+endobj
+462 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 461 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+463 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 464 0 R >>>>stream
+xœ    
+endstream
+endobj
+464 0 obj
+<</F2 2 0 R >>
+endobj
+465 0 obj
+<</BBox[ 0 0 112 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 464 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+466 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 467 0 R >>>>stream
+xœ    
+endstream
+endobj
+467 0 obj
+<</F2 2 0 R >>
+endobj
+468 0 obj
+<</BBox[ 0 0 112 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 467 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+469 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 470 0 R >>>>stream
+xœ    
+endstream
+endobj
+470 0 obj
+<</F2 2 0 R >>
+endobj
+471 0 obj
+<</BBox[ 0 0 263 93]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 470 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+472 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 473 0 R >>>>stream
+xœ    
+endstream
+endobj
+473 0 obj
+<</F2 2 0 R >>
+endobj
+474 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 473 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+475 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 476 0 R >>>>stream
+xœ    
+endstream
+endobj
+476 0 obj
+<</F2 2 0 R >>
+endobj
+477 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 476 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+478 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 479 0 R >>>>stream
+xœ    
+endstream
+endobj
+479 0 obj
+<</F2 2 0 R >>
+endobj
+480 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 479 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+481 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 482 0 R >>>>stream
+xœ    
+endstream
+endobj
+482 0 obj
+<</F2 2 0 R >>
+endobj
+483 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 482 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+484 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 485 0 R >>>>stream
+xœ    
+endstream
+endobj
+485 0 obj
+<</F2 2 0 R >>
+endobj
+486 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 485 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+487 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 488 0 R >>>>stream
+xœ    
+endstream
+endobj
+488 0 obj
+<</F2 2 0 R >>
+endobj
+489 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 488 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+490 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 491 0 R >>>>stream
+xœ    
+endstream
+endobj
+491 0 obj
+<</F2 2 0 R >>
+endobj
+492 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 491 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+493 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 494 0 R >>>>stream
+xœ    
+endstream
+endobj
+494 0 obj
+<</F2 2 0 R >>
+endobj
+495 0 obj
+<</BBox[ 0 0 86 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 494 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+496 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 497 0 R >>>>stream
+xœ    
+endstream
+endobj
+497 0 obj
+<</F2 2 0 R >>
+endobj
+498 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 497 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+499 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 500 0 R >>>>stream
+xœ    
+endstream
+endobj
+500 0 obj
+<</F2 2 0 R >>
+endobj
+501 0 obj
+<</BBox[ 0 0 43 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 500 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+502 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 503 0 R >>>>stream
+xœ    
+endstream
+endobj
+503 0 obj
+<</F2 2 0 R >>
+endobj
+504 0 obj
+<</BBox[ 0 0 43 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 503 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+505 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 506 0 R >>>>stream
+xœ    
+endstream
+endobj
+506 0 obj
+<</F2 2 0 R >>
+endobj
+507 0 obj
+<</BBox[ 0 0 263 24]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 506 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+508 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 509 0 R >>>>stream
+xœ    
+endstream
+endobj
+509 0 obj
+<</F2 2 0 R >>
+endobj
+510 0 obj
+<</BBox[ 0 0 72 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 509 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+511 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 512 0 R >>>>stream
+xœ    
+endstream
+endobj
+512 0 obj
+<</F2 2 0 R >>
+endobj
+513 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 512 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+514 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 515 0 R >>>>stream
+xœ    
+endstream
+endobj
+515 0 obj
+<</F2 2 0 R >>
+endobj
+516 0 obj
+<</BBox[ 0 0 112 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 515 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+517 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 518 0 R >>>>stream
+xœ    
+endstream
+endobj
+518 0 obj
+<</F2 2 0 R >>
+endobj
+519 0 obj
+<</BBox[ 0 0 112 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 518 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+520 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 521 0 R >>>>stream
+xœ    
+endstream
+endobj
+521 0 obj
+<</F2 2 0 R >>
+endobj
+522 0 obj
+<</BBox[ 0 0 263 45]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 521 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+523 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 524 0 R >>>>stream
+xœ    
+endstream
+endobj
+524 0 obj
+<</F2 2 0 R >>
+endobj
+525 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 524 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+526 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 527 0 R >>>>stream
+xœ    
+endstream
+endobj
+527 0 obj
+<</F2 2 0 R >>
+endobj
+528 0 obj
+<</BBox[ 0 0 72 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 527 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+529 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 530 0 R >>>>stream
+xœ    
+endstream
+endobj
+530 0 obj
+<</F2 2 0 R >>
+endobj
+531 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 530 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+532 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 533 0 R >>>>stream
+xœ    
+endstream
+endobj
+533 0 obj
+<</F2 2 0 R >>
+endobj
+534 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 533 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+535 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 536 0 R >>>>stream
+xœ    
+endstream
+endobj
+536 0 obj
+<</F2 2 0 R >>
+endobj
+537 0 obj
+<</BBox[ 0 0 263 24]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 536 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+538 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 539 0 R >>>>stream
+xœ    
+endstream
+endobj
+539 0 obj
+<</F2 2 0 R >>
+endobj
+540 0 obj
+<</BBox[ 0 0 159 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 539 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+541 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 542 0 R >>>>stream
+xœ    
+endstream
+endobj
+542 0 obj
+<</F2 2 0 R >>
+endobj
+543 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 542 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+544 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 545 0 R >>>>stream
+xœ    
+endstream
+endobj
+545 0 obj
+<</F2 2 0 R >>
+endobj
+546 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 545 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+547 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 548 0 R >>>>stream
+xœ    
+endstream
+endobj
+548 0 obj
+<</F2 2 0 R >>
+endobj
+549 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 548 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+550 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 551 0 R >>>>stream
+xœ    
+endstream
+endobj
+551 0 obj
+<</F2 2 0 R >>
+endobj
+552 0 obj
+<</BBox[ 0 0 263 45]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 551 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+553 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 554 0 R >>>>stream
+xœ    
+endstream
+endobj
+554 0 obj
+<</F2 2 0 R >>
+endobj
+555 0 obj
+<</BBox[ 0 0 72 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 554 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+556 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 557 0 R >>>>stream
+xœ    
+endstream
+endobj
+557 0 obj
+<</F2 2 0 R >>
+endobj
+558 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 557 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+559 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 560 0 R >>>>stream
+xœ    
+endstream
+endobj
+560 0 obj
+<</F2 2 0 R >>
+endobj
+561 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 560 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+562 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 563 0 R >>>>stream
+xœ    
+endstream
+endobj
+563 0 obj
+<</F2 2 0 R >>
+endobj
+564 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 563 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+565 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 566 0 R >>>>stream
+xœ    
+endstream
+endobj
+566 0 obj
+<</F2 2 0 R >>
+endobj
+567 0 obj
+<</BBox[ 0 0 350 36]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 566 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+568 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 569 0 R >>>>stream
+xœ    
+endstream
+endobj
+569 0 obj
+<</F2 2 0 R >>
+endobj
+570 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 569 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+571 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 572 0 R >>>>stream
+xœ    
+endstream
+endobj
+572 0 obj
+<</F2 2 0 R >>
+endobj
+573 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 572 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+574 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 575 0 R >>>>stream
+xœ    
+endstream
+endobj
+575 0 obj
+<</F2 2 0 R >>
+endobj
+576 0 obj
+<</BBox[ 0 0 64 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 575 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+577 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 578 0 R >>>>stream
+xœ    
+endstream
+endobj
+578 0 obj
+<</F2 2 0 R >>
+endobj
+579 0 obj
+<</BBox[ 0 0 220 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 578 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+580 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 581 0 R >>>>stream
+xœ    
+endstream
+endobj
+581 0 obj
+<</F2 2 0 R >>
+endobj
+582 0 obj
+<</BBox[ 0 0 220 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 581 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+583 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 584 0 R >>>>stream
+xœ    
+endstream
+endobj
+584 0 obj
+<</F2 2 0 R >>
+endobj
+585 0 obj
+<</BBox[ 0 0 220 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 584 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+586 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 587 0 R >>>>stream
+xœ    
+endstream
+endobj
+587 0 obj
+<</F2 2 0 R >>
+endobj
+588 0 obj
+<</BBox[ 0 0 155 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 587 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+589 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 590 0 R >>>>stream
+xœ    
+endstream
+endobj
+590 0 obj
+<</F2 2 0 R >>
+endobj
+591 0 obj
+<</BBox[ 0 0 18 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 590 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+592 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 593 0 R >>>>stream
+xœ    
+endstream
+endobj
+593 0 obj
+<</F2 2 0 R >>
+endobj
+594 0 obj
+<</BBox[ 0 0 47 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 593 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+595 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 596 0 R >>>>stream
+xœ    
+endstream
+endobj
+596 0 obj
+<</F2 2 0 R >>
+endobj
+597 0 obj
+<</BBox[ 0 0 172 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 596 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+598 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 599 0 R >>>>stream
+xœ    
+endstream
+endobj
+599 0 obj
+<</F2 2 0 R >>
+endobj
+600 0 obj
+<</BBox[ 0 0 255 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 599 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+601 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 602 0 R >>>>stream
+xœ    
+endstream
+endobj
+602 0 obj
+<</F2 2 0 R >>
+endobj
+603 0 obj
+<</BBox[ 0 0 284 24]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 602 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+604 0 obj
+<</Filter/FlateDecode/Length 8/Resources<</Font 605 0 R >>>>stream
+xœ    
+endstream
+endobj
+605 0 obj
+<</F2 2 0 R >>
+endobj
+606 0 obj
+<</BBox[ 0 0 180 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Resources<</Font 605 0 R >>/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+607 0 obj
+<</BaseFont/Untitled/DescendantFonts[ 608 0 R ]/Encoding/Identity-H/Subtype/Type0/ToUnicode 614 0 R /Type/Font>>
+endobj
+608 0 obj
+<</BaseFont/Untitled/CIDSystemInfo 609 0 R /CIDToGIDMap 613 0 R /FontDescriptor 610 0 R /Subtype/CIDFontType2/Type/Font/W 612 0 R >>
+endobj
+609 0 obj
+<</Ordering(Identity)/Registry(Adobe)/Supplement 0>>
+endobj
+610 0 obj
+<</Ascent 1000/CapHeight 1000/Descent 0/Flags 33/FontBBox[ 0 0 500 1000]/FontFile2 611 0 R /FontName/Untitled/ItalicAngle 0/StemV 70/Type/FontDescriptor>>
+endobj
+611 0 obj
+<</Filter/FlateDecode/Length 329/Length1 573>>stream
+xœm‘±OÂ@Æ×^±‰˜(q0¦ã€`Œ“ƒN&¬Ú`µ$´ 0àÆèèÀä?àâÀèîâ¦ƒ“ƒ“›“$n$ÈµÕ ø%—w÷}ï½ûŞˆÓEÇ*mm—ß{ 6€“Šg7ˆ³âX;¯]-¯dAÜ+®cŸ&:Ÿpìº®c'5©ï@ÖõÚ‰‚¸ÌZ½b“Î} æÙc¬›€åÛ3øH¿‚xõV mUéj§V¿w‘:^Øû’sfĞıéfè«øòp;PQğ)4B0”êA§Ih£!#eZ=xc†`„FÿA±T*²vUTb÷oJT('½À’º3ˆ±ñM"ùSLªC!³˜‘Ã¹u6C¿¤»$H£#ä|Ä—qhÒ¢J‹9òe§ÙªÖ}«ËO¿Âìxß¹é9
+endstream
+endobj
+612 0 obj
+[ 0 65535 500]
+endobj
+613 0 obj
+<</Filter/FlateDecode/Length 150>>stream
+xœíÂ	    ú:h‡h                                                                                                                              € ÿ 
+endstream
+endobj
+614 0 obj
+<</Filter/FlateDecode/Length 219>>stream
+xœmÍjÃ0„ïzŠ=&‡ %gc(	¦>4-u^@–ÆF¯„,üöEÊ”´0;ú–ÙòØZv‰äOô¦C¢Á±˜ı¨ÇèXìdIwUª™tîÖ9ajyğTU‚HşbtsŠ+m>¬ï±Í½ïh´i-8¹´–v·„pÅN¤D]“Å äñK‡³@²ğ»±û|ù—5€Eïo©Œ·˜ƒ6ˆšGˆJ)¥jªš¦ij¶ÿü;Õo¾ÓMeêáçyág6³ÄNå*%QÎâÏÃ2UŞßˆt4
+endstream
+endobj
+615 0 obj
+<</BBox[ 0 0 14 12]/Filter/FlateDecode/FormType 1/Length 36/Matrix[ 1 0 0 1 0 0]/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä*ä2R04TÈå24R0TÈñ /˜+ æ4
+endstream
+endobj
+616 0 obj
+<</BBox[ 0 0 14 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+617 0 obj
+<</BBox[ 0 0 14 12]/Filter/FlateDecode/FormType 1/Length 61/Matrix[ 1 0 0 1 0 0]/Subtype/Form/Type/XObject>>stream
+xœ+ä2Ğ37U@Eé\
+
+†&
+†F
+E©\i\\…`l¤`h¨Ëeh¤`¨âA9 ^0W  8£¤
+endstream
+endobj
+618 0 obj
+<</BBox[ 0 0 14 12]/Filter/FlateDecode/FormType 1/Length 40/Matrix[ 1 0 0 1 0 0]/Subtype/Form/Type/XObject>>stream
+xœ+ä2Ğ37U@Eé\
+
+†&
+†F
+E©\i\\…\\ ­QG
+endstream
+endobj
+619 0 obj
+<</BBox[ 0 0 14 12]/Filter/FlateDecode/FormType 1/Length 36/Matrix[ 1 0 0 1 0 0]/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä*ä2R04TÈå24R0TÈñ /˜+ æ4
+endstream
+endobj
+620 0 obj
+<</BBox[ 0 0 14 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+621 0 obj
+<</BBox[ 0 0 14 12]/Filter/FlateDecode/FormType 1/Length 61/Matrix[ 1 0 0 1 0 0]/Subtype/Form/Type/XObject>>stream
+xœ+ä2Ğ37U@Eé\
+
+†&
+†F
+E©\i\\…`l¤`h¨Ëeh¤`¨âA9 ^0W  8£¤
+endstream
+endobj
+622 0 obj
+<</BBox[ 0 0 14 12]/Filter/FlateDecode/FormType 1/Length 40/Matrix[ 1 0 0 1 0 0]/Subtype/Form/Type/XObject>>stream
+xœ+ä2Ğ37U@Eé\
+
+†&
+†F
+E©\i\\…\\ ­QG
+endstream
+endobj
+623 0 obj
+<</BBox[ 0 0 14 12]/Filter/FlateDecode/FormType 1/Length 36/Matrix[ 1 0 0 1 0 0]/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä*ä2R04TÈå24R0TÈñ /˜+ æ4
+endstream
+endobj
+624 0 obj
+<</BBox[ 0 0 14 12]/Filter/FlateDecode/FormType 1/Length 12/Matrix[ 1 0 0 1 0 0]/Subtype/Form/Type/XObject>>stream
+xœ+ä
+ä ’ ×
+endstream
+endobj
+625 0 obj
+<</BBox[ 0 0 14 12]/Filter/FlateDecode/FormType 1/Length 61/Matrix[ 1 0 0 1 0 0]/Subtype/Form/Type/XObject>>stream
+xœ+ä2Ğ37U@Eé\
+
+†&
+†F
+E©\i\\…`l¤`h¨Ëeh¤`¨âA9 ^0W  8£¤
+endstream
+endobj
+626 0 obj
+<</BBox[ 0 0 14 12]/Filter/FlateDecode/FormType 1/Length 40/Matrix[ 1 0 0 1 0 0]/Subtype/Form/Type/XObject>>stream
+xœ+ä2Ğ37U@Eé\
+
+†&
+†F
+E©\i\\…\\ ­QG
+endstream
+endobj
+xref
+0 155
+0000000000 65535 f
+0000000017 00000 n
+0000001570 00000 n
+0000003410 00000 n
+0000003731 00000 n
+0000004041 00000 n
+0000004284 00000 n
+0000004546 00000 n
+0000004804 00000 n
+0000005067 00000 n
+0000005347 00000 n
+0000005611 00000 n
+0000005924 00000 n
+0000006164 00000 n
+0000006452 00000 n
+0000006791 00000 n
+0000007023 00000 n
+0000007287 00000 n
+0000007530 00000 n
+0000007773 00000 n
+0000008018 00000 n
+0000008288 00000 n
+0000008538 00000 n
+0000008944 00000 n
+0000009189 00000 n
+0000009615 00000 n
+0000009903 00000 n
+0000010244 00000 n
+0000010581 00000 n
+0000011027 00000 n
+0000011354 00000 n
+0000011679 00000 n
+0000012026 00000 n
+0000012282 00000 n
+0000012915 00000 n
+0000013225 00000 n
+0000013535 00000 n
+0000013851 00000 n
+0000014179 00000 n
+0000014436 00000 n
+0000014764 00000 n
+0000015021 00000 n
+0000015790 00000 n
+0000016134 00000 n
+0000016416 00000 n
+0000016923 00000 n
+0000017223 00000 n
+0000017992 00000 n
+0000018336 00000 n
+0000018618 00000 n
+0000019125 00000 n
+0000019425 00000 n
+0000020194 00000 n
+0000020538 00000 n
+0000020820 00000 n
+0000021327 00000 n
+0000021627 00000 n
+0000022396 00000 n
+0000022740 00000 n
+0000023022 00000 n
+0000023529 00000 n
+0000023829 00000 n
+0000024174 00000 n
+0000024508 00000 n
+0000024834 00000 n
+0000025183 00000 n
+0000025594 00000 n
+0000025943 00000 n
+0000026354 00000 n
+0000026703 00000 n
+0000027114 00000 n
+0000027520 00000 n
+0000027988 00000 n
+0000028371 00000 n
+0000028804 00000 n
+0000029209 00000 n
+0000029622 00000 n
+0000030009 00000 n
+0000030445 00000 n
+0000030748 00000 n
+0000031065 00000 n
+0000031371 00000 n
+0000031674 00000 n
+0000031984 00000 n
+0000032317 00000 n
+0000032646 00000 n
+0000032979 00000 n
+0000033308 00000 n
+0000033606 00000 n
+0000034005 00000 n
+0000034392 00000 n
+0000034783 00000 n
+0000035178 00000 n
+0000035425 00000 n
+0000035665 00000 n
+0000035965 00000 n
+0000036202 00000 n
+0000036439 00000 n
+0000036742 00000 n
+0000036982 00000 n
+0000037317 00000 n
+0000037590 00000 n
+0000037913 00000 n
+0000038253 00000 n
+0000038563 00000 n
+0000038976 00000 n
+0000039366 00000 n
+0000039755 00000 n
+0000040048 00000 n
+0000040461 00000 n
+0000040799 00000 n
+0000041137 00000 n
+0000041471 00000 n
+0000041809 00000 n
+0000042143 00000 n
+0000042440 00000 n
+0000042792 00000 n
+0000043065 00000 n
+0000043365 00000 n
+0000043659 00000 n
+0000043983 00000 n
+0000044329 00000 n
+0000044854 00000 n
+0000045336 00000 n
+0000045659 00000 n
+0000046103 00000 n
+0000046389 00000 n
+0000046694 00000 n
+0000047060 00000 n
+0000047520 00000 n
+0000047992 00000 n
+0000048479 00000 n
+0000048954 00000 n
+0000049481 00000 n
+0000049718 00000 n
+0000049956 00000 n
+0000050204 00000 n
+0000050430 00000 n
+0000050684 00000 n
+0000050938 00000 n
+0000051194 00000 n
+0000051475 00000 n
+0000051736 00000 n
+0000052080 00000 n
+0000052426 00000 n
+0000052772 00000 n
+0000053098 00000 n
+0000053445 00000 n
+0000053710 00000 n
+0000054040 00000 n
+0000054515 00000 n
+0000054584 00000 n
+0000054861 00000 n
+0000055088 00000 n
+0000055209 00000 n
+158 111
+0000055331 00000 n
+0000055529 00000 n
+0000055701 00000 n
+0000055877 00000 n
+0000056075 00000 n
+0000056247 00000 n
+0000056423 00000 n
+0000056621 00000 n
+0000056793 00000 n
+0000056969 00000 n
+0000057167 00000 n
+0000057339 00000 n
+0000057515 00000 n
+0000057713 00000 n
+0000057885 00000 n
+0000058061 00000 n
+0000058259 00000 n
+0000058431 00000 n
+0000058607 00000 n
+0000058805 00000 n
+0000058977 00000 n
+0000059153 00000 n
+0000059351 00000 n
+0000059523 00000 n
+0000059699 00000 n
+0000059897 00000 n
+0000060069 00000 n
+0000060245 00000 n
+0000060443 00000 n
+0000060615 00000 n
+0000060791 00000 n
+0000060989 00000 n
+0000061161 00000 n
+0000061337 00000 n
+0000061535 00000 n
+0000061707 00000 n
+0000061883 00000 n
+0000062081 00000 n
+0000062253 00000 n
+0000062429 00000 n
+0000062627 00000 n
+0000062799 00000 n
+0000062975 00000 n
+0000063173 00000 n
+0000063345 00000 n
+0000063521 00000 n
+0000063719 00000 n
+0000063891 00000 n
+0000064067 00000 n
+0000064265 00000 n
+0000064437 00000 n
+0000064613 00000 n
+0000064811 00000 n
+0000064983 00000 n
+0000065159 00000 n
+0000065357 00000 n
+0000065529 00000 n
+0000065705 00000 n
+0000065903 00000 n
+0000066075 00000 n
+0000066251 00000 n
+0000066449 00000 n
+0000066621 00000 n
+0000066797 00000 n
+0000066995 00000 n
+0000067167 00000 n
+0000067343 00000 n
+0000067541 00000 n
+0000067713 00000 n
+0000067889 00000 n
+0000068087 00000 n
+0000068259 00000 n
+0000068435 00000 n
+0000068633 00000 n
+0000068805 00000 n
+0000068981 00000 n
+0000069179 00000 n
+0000069351 00000 n
+0000069527 00000 n
+0000069725 00000 n
+0000069897 00000 n
+0000070073 00000 n
+0000070271 00000 n
+0000070443 00000 n
+0000070619 00000 n
+0000070817 00000 n
+0000070989 00000 n
+0000071165 00000 n
+0000071363 00000 n
+0000071535 00000 n
+0000071711 00000 n
+0000071909 00000 n
+0000072081 00000 n
+0000072257 00000 n
+0000072455 00000 n
+0000072627 00000 n
+0000072803 00000 n
+0000073001 00000 n
+0000073173 00000 n
+0000073349 00000 n
+0000073547 00000 n
+0000073719 00000 n
+0000073895 00000 n
+0000074093 00000 n
+0000074265 00000 n
+0000074441 00000 n
+0000074639 00000 n
+0000074811 00000 n
+0000074987 00000 n
+0000075185 00000 n
+0000075357 00000 n
+272 3
+0000075533 00000 n
+0000075731 00000 n
+0000075903 00000 n
+278 349
+0000076079 00000 n
+0000076280 00000 n
+0000077523 00000 n
+0000081300 00000 n
+0000083174 00000 n
+0000087966 00000 n
+0000087998 00000 n
+0000090407 00000 n
+0000090500 00000 n
+0000090608 00000 n
+0000090655 00000 n
+0000090900 00000 n
+0000091008 00000 n
+0000091043 00000 n
+0000091231 00000 n
+0000091339 00000 n
+0000091374 00000 n
+0000091637 00000 n
+0000091745 00000 n
+0000091780 00000 n
+0000092034 00000 n
+0000092142 00000 n
+0000092177 00000 n
+0000092429 00000 n
+0000092537 00000 n
+0000092572 00000 n
+0000092827 00000 n
+0000092935 00000 n
+0000092970 00000 n
+0000093216 00000 n
+0000093324 00000 n
+0000093359 00000 n
+0000093608 00000 n
+0000093716 00000 n
+0000093751 00000 n
+0000094005 00000 n
+0000094113 00000 n
+0000094148 00000 n
+0000094402 00000 n
+0000094510 00000 n
+0000094545 00000 n
+0000094734 00000 n
+0000094842 00000 n
+0000094877 00000 n
+0000095066 00000 n
+0000095174 00000 n
+0000095209 00000 n
+0000095398 00000 n
+0000095506 00000 n
+0000095541 00000 n
+0000095730 00000 n
+0000095838 00000 n
+0000095873 00000 n
+0000096062 00000 n
+0000096170 00000 n
+0000096205 00000 n
+0000096394 00000 n
+0000096502 00000 n
+0000096537 00000 n
+0000096726 00000 n
+0000096834 00000 n
+0000096869 00000 n
+0000097057 00000 n
+0000097165 00000 n
+0000097200 00000 n
+0000097388 00000 n
+0000097496 00000 n
+0000097531 00000 n
+0000097720 00000 n
+0000097828 00000 n
+0000097863 00000 n
+0000098052 00000 n
+0000098160 00000 n
+0000098195 00000 n
+0000098383 00000 n
+0000098491 00000 n
+0000098526 00000 n
+0000098714 00000 n
+0000098822 00000 n
+0000098857 00000 n
+0000099045 00000 n
+0000099153 00000 n
+0000099188 00000 n
+0000099377 00000 n
+0000099485 00000 n
+0000099520 00000 n
+0000099709 00000 n
+0000099817 00000 n
+0000099852 00000 n
+0000100041 00000 n
+0000100149 00000 n
+0000100184 00000 n
+0000100373 00000 n
+0000100481 00000 n
+0000100516 00000 n
+0000100704 00000 n
+0000100812 00000 n
+0000100847 00000 n
+0000101036 00000 n
+0000101144 00000 n
+0000101179 00000 n
+0000101367 00000 n
+0000101475 00000 n
+0000101510 00000 n
+0000101698 00000 n
+0000101806 00000 n
+0000101841 00000 n
+0000102029 00000 n
+0000102137 00000 n
+0000102172 00000 n
+0000102360 00000 n
+0000102468 00000 n
+0000102503 00000 n
+0000102692 00000 n
+0000102800 00000 n
+0000102835 00000 n
+0000103023 00000 n
+0000103131 00000 n
+0000103166 00000 n
+0000103354 00000 n
+0000103462 00000 n
+0000103497 00000 n
+0000103685 00000 n
+0000103793 00000 n
+0000103828 00000 n
+0000104016 00000 n
+0000104124 00000 n
+0000104159 00000 n
+0000104348 00000 n
+0000104456 00000 n
+0000104491 00000 n
+0000104679 00000 n
+0000104787 00000 n
+0000104822 00000 n
+0000105010 00000 n
+0000105118 00000 n
+0000105153 00000 n
+0000105341 00000 n
+0000105449 00000 n
+0000105484 00000 n
+0000105672 00000 n
+0000105780 00000 n
+0000105815 00000 n
+0000106004 00000 n
+0000106112 00000 n
+0000106147 00000 n
+0000106335 00000 n
+0000106443 00000 n
+0000106478 00000 n
+0000106666 00000 n
+0000106774 00000 n
+0000106809 00000 n
+0000106997 00000 n
+0000107105 00000 n
+0000107140 00000 n
+0000107329 00000 n
+0000107437 00000 n
+0000107472 00000 n
+0000107661 00000 n
+0000107769 00000 n
+0000107804 00000 n
+0000107993 00000 n
+0000108101 00000 n
+0000108136 00000 n
+0000108325 00000 n
+0000108433 00000 n
+0000108468 00000 n
+0000108657 00000 n
+0000108765 00000 n
+0000108800 00000 n
+0000108988 00000 n
+0000109096 00000 n
+0000109131 00000 n
+0000109319 00000 n
+0000109427 00000 n
+0000109462 00000 n
+0000109650 00000 n
+0000109758 00000 n
+0000109793 00000 n
+0000109981 00000 n
+0000110089 00000 n
+0000110124 00000 n
+0000110312 00000 n
+0000110420 00000 n
+0000110455 00000 n
+0000110643 00000 n
+0000110751 00000 n
+0000110786 00000 n
+0000110975 00000 n
+0000111083 00000 n
+0000111118 00000 n
+0000111307 00000 n
+0000111415 00000 n
+0000111450 00000 n
+0000111639 00000 n
+0000111747 00000 n
+0000111782 00000 n
+0000111970 00000 n
+0000112078 00000 n
+0000112113 00000 n
+0000112301 00000 n
+0000112409 00000 n
+0000112444 00000 n
+0000112632 00000 n
+0000112740 00000 n
+0000112775 00000 n
+0000112963 00000 n
+0000113071 00000 n
+0000113106 00000 n
+0000113294 00000 n
+0000113402 00000 n
+0000113437 00000 n
+0000113625 00000 n
+0000113733 00000 n
+0000113768 00000 n
+0000113956 00000 n
+0000114064 00000 n
+0000114099 00000 n
+0000114287 00000 n
+0000114395 00000 n
+0000114430 00000 n
+0000114618 00000 n
+0000114726 00000 n
+0000114761 00000 n
+0000114949 00000 n
+0000115057 00000 n
+0000115092 00000 n
+0000115280 00000 n
+0000115388 00000 n
+0000115423 00000 n
+0000115612 00000 n
+0000115720 00000 n
+0000115755 00000 n
+0000115943 00000 n
+0000116051 00000 n
+0000116086 00000 n
+0000116274 00000 n
+0000116382 00000 n
+0000116417 00000 n
+0000116606 00000 n
+0000116714 00000 n
+0000116749 00000 n
+0000116938 00000 n
+0000117046 00000 n
+0000117081 00000 n
+0000117270 00000 n
+0000117378 00000 n
+0000117413 00000 n
+0000117601 00000 n
+0000117709 00000 n
+0000117744 00000 n
+0000117932 00000 n
+0000118040 00000 n
+0000118075 00000 n
+0000118263 00000 n
+0000118371 00000 n
+0000118406 00000 n
+0000118594 00000 n
+0000118702 00000 n
+0000118737 00000 n
+0000118926 00000 n
+0000119034 00000 n
+0000119069 00000 n
+0000119258 00000 n
+0000119366 00000 n
+0000119401 00000 n
+0000119589 00000 n
+0000119697 00000 n
+0000119732 00000 n
+0000119920 00000 n
+0000120028 00000 n
+0000120063 00000 n
+0000120251 00000 n
+0000120359 00000 n
+0000120394 00000 n
+0000120583 00000 n
+0000120691 00000 n
+0000120726 00000 n
+0000120914 00000 n
+0000121022 00000 n
+0000121057 00000 n
+0000121245 00000 n
+0000121353 00000 n
+0000121388 00000 n
+0000121576 00000 n
+0000121684 00000 n
+0000121719 00000 n
+0000121907 00000 n
+0000122015 00000 n
+0000122050 00000 n
+0000122239 00000 n
+0000122347 00000 n
+0000122382 00000 n
+0000122570 00000 n
+0000122678 00000 n
+0000122713 00000 n
+0000122901 00000 n
+0000123009 00000 n
+0000123044 00000 n
+0000123232 00000 n
+0000123340 00000 n
+0000123375 00000 n
+0000123564 00000 n
+0000123672 00000 n
+0000123707 00000 n
+0000123896 00000 n
+0000124004 00000 n
+0000124039 00000 n
+0000124228 00000 n
+0000124336 00000 n
+0000124371 00000 n
+0000124560 00000 n
+0000124668 00000 n
+0000124703 00000 n
+0000124891 00000 n
+0000124999 00000 n
+0000125034 00000 n
+0000125222 00000 n
+0000125330 00000 n
+0000125365 00000 n
+0000125554 00000 n
+0000125662 00000 n
+0000125697 00000 n
+0000125886 00000 n
+0000125994 00000 n
+0000126029 00000 n
+0000126218 00000 n
+0000126326 00000 n
+0000126361 00000 n
+0000126550 00000 n
+0000126683 00000 n
+0000126836 00000 n
+0000126909 00000 n
+0000127084 00000 n
+0000127499 00000 n
+0000127534 00000 n
+0000127758 00000 n
+0000128051 00000 n
+0000128235 00000 n
+0000128395 00000 n
+0000128604 00000 n
+0000128792 00000 n
+0000128976 00000 n
+0000129136 00000 n
+0000129345 00000 n
+0000129533 00000 n
+0000129717 00000 n
+0000129877 00000 n
+0000130086 00000 n
+trailer
+<</Info 151 0 R /Root 1 0 R /Size 627/ID[<83E65394593B59BCE562817C54DCB436><83E65394593B59BCE562817C54DCB436>]>>
+startxref
+130274
+%%EOF
